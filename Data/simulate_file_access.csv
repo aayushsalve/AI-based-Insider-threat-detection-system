@@ -1,0 +1,38 @@
+import pandas as pd
+import random
+from datetime import datetime, timedelta
+
+def generate_file_access_data(num_users, num_records_per_user, num_files):
+    user_ids = [f'U{i+1}' for i in range(num_users)]
+    file_ids = [f'File_{i+1}' for i in range(num_files)]  # Simulating a total of 'num_files' files
+    access_types = ['Read', 'Write', 'Delete']
+    access_methods = ['Local', 'Remote']
+    locations = ['192.168.1.', '10.0.0.']  # Simulating internal IPs
+
+    data = []
+
+    for user in user_ids:
+        for _ in range(num_records_per_user):
+            timestamp = datetime.now() - timedelta(days=random.randint(0, 30), hours=random.randint(0, 24))
+            file_id = random.choice(file_ids)
+            access_type = random.choice(access_types)
+            is_sensitive = 1 if random.random() < 0.3 else 0  # 30% chance file is sensitive
+            file_size = random.randint(10, 5000)  # File size between 10KB to 5MB
+            access_method = random.choice(access_methods)
+            ip_address = f"{random.choice(locations)}{random.randint(1, 255)}"
+            successful_access = 1 if random.random() > 0.1 else 0  # 90% chance of success
+
+            data.append([user, timestamp, file_id, access_type, is_sensitive, file_size, access_method, ip_address, successful_access])
+
+    df = pd.DataFrame(data, columns=["user_id", "timestamp", "file_id", "file_access_type", "is_sensitive_file", "file_size", "access_method", "ip_address", "successful_access"])
+    return df
+
+def save_data_to_csv(df, filename="simulate_file_access.csv"):
+    df.to_csv(filename, index=False)
+    print(f"Data saved to {filename}")
+
+# Generate data for 10 users, each with 50 file access records, and 20 unique files
+file_access_data = generate_file_access_data(num_users=10, num_records_per_user=50, num_files=20)
+
+# Save the data to CSV
+save_data_to_csv(file_access_data)

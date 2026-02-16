@@ -1,0 +1,4 @@
+user_id,activity_type,failed_logins,is_sensitive_file_access
+1,Login,0,0
+2,File Access,1,1
+3,Failed Login,2,0

@@ -1,0 +1,45 @@
+import pandas as pd
+import random
+from datetime import datetime, timedelta
+
+def generate_activity_data(num_users, num_records_per_user, num_files):
+    user_ids = [f'U{i+1}' for i in range(num_users)]
+    file_ids = [f'File_{i+1}' for i in range(num_files)]  # Simulating num_files files
+    activity_types = ['Login', 'File Access', 'Failed Login']
+    access_types = ['Read', 'Write', 'Delete']
+    locations = ['New York', 'California', 'London', 'Berlin']
+    devices = ['Device_01', 'Device_02', 'Device_03', 'Device_04']
+    
+    data = []
+    
+    for user in user_ids:
+        for _ in range(num_records_per_user):
+            timestamp = datetime.now() - timedelta(days=random.randint(0, 30), hours=random.randint(0, 24))
+            activity_type = random.choice(activity_types)
+            
+            if activity_type == 'File Access':
+                file_id = random.choice(file_ids)
+                access_type = random.choice(access_types)
+                is_sensitive_file = 1 if random.random() < 0.3 else 0  # 30% chance file is sensitive
+            else:
+                file_id = None
+                access_type = None
+                is_sensitive_file = 0
+            
+            login_hour = timestamp.hour if activity_type == 'Login' else None
+            location = random.choice(locations)
+            device_id = random.choice(devices)
+            ip_address = f"192.168.1.{random.randint(1, 255)}" if random.random() > 0.5 else f"10.0.0.{random.randint(1, 255)}"
+            successful_activity = 1 if random.random() > 0.1 else 0  # 90% success rate
+            
+            data.append([user, timestamp, activity_type, file_id, access_type, login_hour, location, device_id, ip_address, successful_activity, is_sensitive_file])
+    
+    df = pd.DataFrame(data, columns=["user_id", "timestamp", "activity_type", "file_id", "file_access_type", "login_hour", "location", "device_id", "ip_address", "successful_activity", "is_sensitive_file_access"])
+    return df
+
+def save_data_to_csv(df, filename="simulate_activity.csv"):
+    df.to_csv(filename, index=False)
+    print(f"Data saved to {filename}")
+
+# Generate activity data for 10 users, each with 50 activity records, and 20 unique files
+activity_data = generate_activity_da_

@@ -1,0 +1,501 @@
+user_id,timestamp,login_hour,device_id,ip_address,login_method,location,successful_login
+U1,2026-01-17 08:40:11.787182,8,Device_4,10.0.0.136,Password,California,1
+U1,2026-02-10 18:40:11.787182,18,Device_2,192.168.1.227,Password,California,0
+U1,2026-01-28 01:40:11.787182,1,Device_4,10.0.0.7,Password,London,1
+U1,2026-01-16 06:40:11.787182,6,Device_3,10.0.0.4,Password,London,0
+U1,2026-01-29 03:40:11.787182,3,Device_4,192.168.1.222,Password,London,1
+U1,2026-01-30 01:40:11.787182,1,Device_3,10.0.0.159,Password,London,1
+U1,2026-02-11 01:40:11.787182,1,Device_2,192.168.1.71,Password,Berlin,1
+U1,2026-01-18 22:40:11.787182,22,Device_2,10.0.0.151,Password,New York,0
+U1,2026-02-01 21:40:11.787182,21,Device_2,192.168.1.178,Password,California,1
+U1,2026-02-07 10:40:11.787182,10,Device_2,192.168.1.131,Password,Berlin,1
+U1,2026-01-17 23:40:11.787182,23,Device_5,10.0.0.33,Multi-factor Authentication,London,1
+U1,2026-01-26 00:40:11.787182,0,Device_5,10.0.0.60,Multi-factor Authentication,Berlin,1
+U1,2026-02-08 20:40:11.787182,20,Device_3,192.168.1.138,Multi-factor Authentication,California,1
+U1,2026-02-01 15:40:11.787182,15,Device_2,10.0.0.171,Password,Berlin,1
+U1,2026-01-30 06:40:11.787182,6,Device_4,192.168.1.145,Password,New York,1
+U1,2026-02-04 09:40:11.787182,9,Device_4,10.0.0.156,Password,California,1
+U1,2026-02-08 23:40:11.787182,23,Device_3,192.168.1.25,Password,London,1
+U1,2026-01-22 18:40:11.787182,18,Device_5,10.0.0.180,Password,California,1
+U1,2026-01-28 09:40:11.787182,9,Device_5,10.0.0.7,Password,London,1
+U1,2026-02-02 04:40:11.787182,4,Device_5,192.168.1.189,Password,Berlin,1
+U1,2026-01-18 19:40:11.787182,19,Device_4,10.0.0.5,Password,New York,1
+U1,2026-02-06 03:40:11.787182,3,Device_2,10.0.0.201,Multi-factor Authentication,California,1
+U1,2026-01-16 13:40:11.787182,13,Device_3,192.168.1.21,Password,New York,1
+U1,2026-01-15 10:40:11.787182,10,Device_5,10.0.0.114,Multi-factor Authentication,London,1
+U1,2026-01-12 14:40:11.787182,14,Device_5,192.168.1.190,Password,London,1
+U1,2026-02-02 03:40:11.787182,3,Device_5,192.168.1.25,Multi-factor Authentication,London,1
+U1,2026-02-08 02:40:11.787182,2,Device_3,10.0.0.4,Password,New York,1
+U1,2026-01-24 06:40:11.787182,6,Device_5,10.0.0.160,Multi-factor Authentication,London,0
+U1,2026-01-18 14:40:11.787182,14,Device_2,192.168.1.193,Password,California,1
+U1,2026-01-17 13:40:11.787182,13,Device_2,192.168.1.165,Password,Berlin,1
+U1,2026-01-29 20:40:11.787182,20,Device_4,10.0.0.132,Password,London,0
+U1,2026-02-03 04:40:11.787182,4,Device_5,192.168.1.17,Password,Berlin,1
+U1,2026-01-19 03:40:11.787182,3,Device_2,10.0.0.140,Password,London,1
+U1,2026-02-01 09:40:11.787182,9,Device_4,10.0.0.181,Password,New York,1
+U1,2026-01-16 03:40:11.787182,3,Device_5,192.168.1.165,Password,New York,0
+U1,2026-02-07 02:40:11.787182,2,Device_3,192.168.1.197,Password,Berlin,1
+U1,2026-01-26 06:40:11.787182,6,Device_3,192.168.1.252,Multi-factor Authentication,California,1
+U1,2026-02-04 17:40:11.787182,17,Device_5,10.0.0.82,Password,California,0
+U1,2026-01-16 07:40:11.787182,7,Device_5,10.0.0.230,Multi-factor Authentication,Berlin,1
+U1,2026-01-25 14:40:11.787182,14,Device_4,192.168.1.227,Password,New York,1
+U1,2026-02-06 19:40:11.787182,19,Device_4,10.0.0.5,Multi-factor Authentication,California,1
+U1,2026-01-15 04:40:11.787182,4,Device_2,192.168.1.10,Password,London,0
+U1,2026-02-02 05:40:11.787182,5,Device_2,10.0.0.66,Password,New York,1
+U1,2026-01-30 01:40:11.787182,1,Device_4,10.0.0.151,Password,Berlin,1
+U1,2026-02-02 20:40:11.787182,20,Device_4,192.168.1.155,Password,New York,1
+U1,2026-01-16 23:40:11.787182,23,Device_4,192.168.1.127,Password,California,1
+U1,2026-02-06 23:40:11.787182,23,Device_5,192.168.1.11,Password,Berlin,1
+U1,2026-01-20 01:40:11.787182,1,Device_4,192.168.1.121,Password,Berlin,1
+U1,2026-01-26 22:40:11.787182,22,Device_3,10.0.0.208,Password,California,1
+U1,2026-01-24 12:40:11.787182,12,Device_5,192.168.1.5,Password,California,1
+U2,2026-02-11 10:40:11.787182,10,Device_2,192.168.1.164,Multi-factor Authentication,Berlin,1
+U2,2026-02-10 05:40:11.787182,5,Device_4,10.0.0.223,Password,California,1
+U2,2026-01-23 22:40:11.787182,22,Device_2,10.0.0.89,Password,Berlin,1
+U2,2026-01-13 00:40:11.787182,0,Device_3,192.168.1.80,Multi-factor Authentication,New York,1
+U2,2026-01-21 03:40:11.787182,3,Device_4,10.0.0.155,Password,New York,1
+U2,2026-02-01 05:40:11.787182,5,Device_4,192.168.1.89,Password,Berlin,1
+U2,2026-01-19 10:40:11.787182,10,Device_4,192.168.1.72,Password,Berlin,1
+U2,2026-01-22 22:40:11.787182,22,Device_2,192.168.1.122,Password,California,1
+U2,2026-01-19 23:40:11.787182,23,Device_4,10.0.0.77,Password,New York,1
+U2,2026-01-18 15:40:11.787182,15,Device_5,192.168.1.64,Password,New York,1
+U2,2026-01-31 03:40:11.787182,3,Device_5,10.0.0.30,Password,New York,1
+U2,2026-01-23 15:40:11.787182,15,Device_3,192.168.1.233,Password,Berlin,1
+U2,2026-01-13 07:40:11.787182,7,Device_5,192.168.1.195,Password,New York,1
+U2,2026-02-11 05:40:11.787182,5,Device_5,10.0.0.203,Password,London,1
+U2,2026-02-05 01:40:11.787182,1,Device_5,10.0.0.145,Multi-factor Authentication,London,1
+U2,2026-01-31 06:40:11.787182,6,Device_2,10.0.0.100,Password,California,1
+U2,2026-01-30 20:40:11.787182,20,Device_3,192.168.1.85,Password,Berlin,1
+U2,2026-02-05 13:40:11.787182,13,Device_3,192.168.1.214,Multi-factor Authentication,California,1
+U2,2026-02-01 22:40:11.787182,22,Device_4,192.168.1.200,Password,New York,1
+U2,2026-01-21 06:40:11.787182,6,Device_5,192.168.1.82,Password,New York,1
+U2,2026-01-21 03:40:11.787182,3,Device_5,10.0.0.101,Password,Berlin,0
+U2,2026-01-22 13:40:11.787182,13,Device_5,192.168.1.124,Password,Berlin,1
+U2,2026-01-20 23:40:11.787182,23,Device_2,10.0.0.212,Password,London,1
+U2,2026-02-06 04:40:11.787182,4,Device_2,10.0.0.153,Password,Berlin,1
+U2,2026-01-29 14:40:11.787182,14,Device_5,10.0.0.185,Password,Berlin,1
+U2,2026-02-10 04:40:11.787182,4,Device_5,192.168.1.21,Password,California,1
+U2,2026-02-05 10:40:11.787182,10,Device_2,10.0.0.80,Password,New York,1
+U2,2026-01-18 22:40:11.787182,22,Device_3,192.168.1.194,Password,Berlin,1
+U2,2026-01-12 23:40:11.787182,23,Device_3,192.168.1.122,Multi-factor Authentication,California,1
+U2,2026-02-08 17:40:11.787182,17,Device_3,192.168.1.254,Multi-factor Authentication,New York,1
+U2,2026-01-19 05:40:11.787182,5,Device_3,192.168.1.255,Password,California,1
+U2,2026-02-08 17:40:11.787182,17,Device_4,192.168.1.137,Password,London,1
+U2,2026-01-21 19:40:11.787182,19,Device_2,10.0.0.236,Password,London,1
+U2,2026-01-28 02:40:11.787182,2,Device_5,192.168.1.251,Password,California,1
+U2,2026-01-31 23:40:11.787182,23,Device_3,10.0.0.252,Password,London,1
+U2,2026-01-20 09:40:11.787182,9,Device_2,10.0.0.159,Multi-factor Authentication,Berlin,1
+U2,2026-01-25 06:40:11.787182,6,Device_5,192.168.1.61,Password,New York,1
+U2,2026-01-31 11:40:11.787182,11,Device_3,10.0.0.244,Password,Berlin,0
+U2,2026-02-09 16:40:11.787182,16,Device_3,10.0.0.208,Password,London,1
+U2,2026-02-01 03:40:11.787182,3,Device_5,10.0.0.97,Password,London,1
+U2,2026-01-22 15:40:11.787182,15,Device_2,10.0.0.195,Password,London,1
+U2,2026-01-13 08:40:11.787182,8,Device_5,10.0.0.192,Password,London,1
+U2,2026-01-16 17:40:11.787182,17,Device_2,192.168.1.64,Password,Berlin,1
+U2,2026-01-16 05:40:11.787182,5,Device_2,192.168.1.14,Password,California,1
+U2,2026-01-21 22:40:11.787182,22,Device_3,192.168.1.151,Password,New York,1
+U2,2026-01-25 10:40:11.787182,10,Device_5,10.0.0.249,Password,London,1
+U2,2026-01-18 14:40:11.787182,14,Device_5,192.168.1.226,Password,London,1
+U2,2026-01-22 17:40:11.787182,17,Device_2,10.0.0.154,Password,Berlin,1
+U2,2026-01-31 14:40:11.787182,14,Device_3,192.168.1.7,Password,New York,1
+U2,2026-02-09 05:40:11.787182,5,Device_2,10.0.0.2,Password,New York,1
+U3,2026-01-21 06:40:11.787182,6,Device_4,10.0.0.40,Password,New York,0
+U3,2026-01-13 23:40:11.787182,23,Device_4,192.168.1.31,Password,London,1
+U3,2026-02-07 03:40:11.787182,3,Device_3,10.0.0.242,Password,London,1
+U3,2026-01-26 19:40:11.787182,19,Device_5,192.168.1.197,Password,Berlin,1
+U3,2026-01-18 12:40:11.787182,12,Device_5,10.0.0.158,Password,New York,1
+U3,2026-01-14 12:40:11.787182,12,Device_2,10.0.0.101,Password,New York,1
+U3,2026-02-11 21:40:11.787182,21,Device_4,10.0.0.131,Password,London,1
+U3,2026-01-14 22:40:11.787182,22,Device_3,192.168.1.157,Password,California,1
+U3,2026-02-09 16:40:11.787182,16,Device_3,10.0.0.124,Password,California,1
+U3,2026-01-23 18:40:11.787182,18,Device_3,192.168.1.24,Password,Berlin,1
+U3,2026-01-23 07:40:11.787182,7,Device_4,10.0.0.233,Password,London,1
+U3,2026-01-22 14:40:11.787182,14,Device_2,10.0.0.209,Password,London,1
+U3,2026-01-31 22:40:11.787182,22,Device_3,10.0.0.18,Password,Berlin,0
+U3,2026-02-08 12:40:11.787182,12,Device_4,10.0.0.141,Multi-factor Authentication,London,1
+U3,2026-01-19 00:40:11.787182,0,Device_5,192.168.1.131,Password,California,1
+U3,2026-01-29 12:40:11.787182,12,Device_3,10.0.0.71,Multi-factor Authentication,California,1
+U3,2026-01-27 22:40:11.787182,22,Device_2,192.168.1.38,Password,New York,1
+U3,2026-02-03 00:40:11.787182,0,Device_2,192.168.1.254,Password,London,1
+U3,2026-01-28 19:40:11.787182,19,Device_3,10.0.0.53,Password,Berlin,1
+U3,2026-01-20 01:40:11.787182,1,Device_3,10.0.0.112,Multi-factor Authentication,New York,1
+U3,2026-01-19 11:40:11.787182,11,Device_2,192.168.1.75,Multi-factor Authentication,London,1
+U3,2026-02-10 02:40:11.787182,2,Device_3,192.168.1.128,Password,California,1
+U3,2026-01-23 22:40:11.787182,22,Device_5,10.0.0.130,Password,California,1
+U3,2026-01-25 15:40:11.787182,15,Device_3,10.0.0.234,Password,Berlin,1
+U3,2026-01-22 14:40:11.787182,14,Device_3,10.0.0.221,Password,Berlin,1
+U3,2026-01-23 02:40:11.787182,2,Device_2,192.168.1.126,Password,Berlin,1
+U3,2026-01-20 10:40:11.787182,10,Device_2,10.0.0.53,Password,California,1
+U3,2026-02-01 12:40:11.787182,12,Device_4,192.168.1.127,Password,New York,1
+U3,2026-01-20 03:40:11.787182,3,Device_3,192.168.1.36,Password,California,1
+U3,2026-01-20 06:40:11.787182,6,Device_5,10.0.0.112,Password,California,1
+U3,2026-02-09 03:40:11.787182,3,Device_2,10.0.0.84,Password,California,0
+U3,2026-02-03 04:40:11.787182,4,Device_2,192.168.1.185,Password,London,1
+U3,2026-02-05 23:40:11.787182,23,Device_4,192.168.1.226,Password,New York,1
+U3,2026-02-04 11:40:11.787182,11,Device_3,10.0.0.59,Password,Berlin,1
+U3,2026-01-25 19:40:11.787182,19,Device_4,10.0.0.107,Password,New York,1
+U3,2026-01-30 19:40:11.787182,19,Device_3,192.168.1.26,Password,New York,1
+U3,2026-01-22 02:40:11.787182,2,Device_4,10.0.0.37,Password,New York,0
+U3,2026-02-10 10:40:11.787182,10,Device_3,192.168.1.56,Password,London,0
+U3,2026-01-31 20:40:11.787182,20,Device_3,10.0.0.207,Password,Berlin,1
+U3,2026-01-20 08:40:11.787182,8,Device_4,192.168.1.210,Multi-factor Authentication,California,1
+U3,2026-01-25 01:40:11.787182,1,Device_4,10.0.0.102,Multi-factor Authentication,London,1
+U3,2026-01-16 12:40:11.787182,12,Device_5,10.0.0.122,Password,California,1
+U3,2026-01-26 02:40:11.787182,2,Device_4,192.168.1.82,Multi-factor Authentication,New York,1
+U3,2026-02-04 16:40:11.787182,16,Device_5,192.168.1.241,Password,California,1
+U3,2026-01-21 12:40:11.787182,12,Device_4,192.168.1.88,Multi-factor Authentication,Berlin,1
+U3,2026-01-27 05:40:11.787182,5,Device_2,10.0.0.42,Password,Berlin,1
+U3,2026-01-18 07:40:11.787182,7,Device_5,192.168.1.97,Password,California,1
+U3,2026-02-09 11:40:11.787182,11,Device_2,10.0.0.236,Password,Berlin,0
+U3,2026-02-09 19:40:11.787182,19,Device_2,192.168.1.166,Password,California,1
+U3,2026-01-22 05:40:11.787182,5,Device_4,192.168.1.63,Multi-factor Authentication,New York,1
+U4,2026-02-01 07:40:11.787182,7,Device_2,10.0.0.161,Password,London,1
+U4,2026-01-29 19:40:11.787182,19,Device_4,192.168.1.85,Multi-factor Authentication,London,1
+U4,2026-01-15 03:40:11.787182,3,Device_2,10.0.0.195,Password,New York,1
+U4,2026-02-11 18:40:11.787182,18,Device_3,192.168.1.177,Password,Berlin,1
+U4,2026-01-22 12:40:11.787182,12,Device_4,10.0.0.12,Multi-factor Authentication,Berlin,1
+U4,2026-01-19 17:40:11.787182,17,Device_5,192.168.1.127,Multi-factor Authentication,California,1
+U4,2026-02-09 00:40:11.787182,0,Device_2,10.0.0.227,Password,California,1
+U4,2026-01-21 06:40:11.787182,6,Device_2,192.168.1.168,Password,California,1
+U4,2026-01-21 20:40:11.787182,20,Device_5,192.168.1.129,Password,London,1
+U4,2026-01-23 20:40:11.787182,20,Device_4,192.168.1.174,Password,London,1
+U4,2026-02-06 23:40:11.787182,23,Device_2,192.168.1.231,Password,London,1
+U4,2026-01-26 01:40:11.787182,1,Device_3,10.0.0.211,Password,Berlin,1
+U4,2026-01-30 06:40:11.787182,6,Device_2,192.168.1.52,Multi-factor Authentication,New York,0
+U4,2026-01-27 11:40:11.787182,11,Device_5,10.0.0.245,Password,London,1
+U4,2026-01-26 08:40:11.787182,8,Device_4,10.0.0.86,Password,New York,1
+U4,2026-01-25 03:40:11.787182,3,Device_4,10.0.0.118,Multi-factor Authentication,London,1
+U4,2026-01-20 15:40:11.787182,15,Device_4,192.168.1.238,Password,Berlin,1
+U4,2026-01-29 10:40:11.787182,10,Device_5,10.0.0.47,Password,Berlin,1
+U4,2026-02-03 00:40:11.787182,0,Device_3,10.0.0.198,Password,London,1
+U4,2026-01-21 12:40:11.787182,12,Device_4,10.0.0.41,Password,New York,0
+U4,2026-01-31 06:40:11.787182,6,Device_3,10.0.0.154,Password,New York,1
+U4,2026-02-02 04:40:11.787182,4,Device_3,192.168.1.127,Password,London,1
+U4,2026-01-25 10:40:11.787182,10,Device_2,192.168.1.35,Password,New York,1
+U4,2026-01-13 07:40:11.787182,7,Device_4,10.0.0.84,Password,Berlin,1
+U4,2026-02-09 11:40:11.787182,11,Device_3,10.0.0.206,Password,California,1
+U4,2026-02-04 20:40:11.787182,20,Device_5,10.0.0.218,Password,Berlin,1
+U4,2026-01-17 16:40:11.787182,16,Device_5,10.0.0.234,Password,Berlin,1
+U4,2026-01-13 03:40:11.787182,3,Device_5,10.0.0.221,Password,London,1
+U4,2026-01-23 22:40:11.787182,22,Device_2,10.0.0.40,Password,New York,1
+U4,2026-02-08 13:40:11.787182,13,Device_2,192.168.1.9,Password,London,1
+U4,2026-01-25 02:40:11.787182,2,Device_2,192.168.1.72,Password,New York,1
+U4,2026-02-07 05:40:11.787182,5,Device_5,192.168.1.182,Multi-factor Authentication,New York,0
+U4,2026-01-14 11:40:11.787182,11,Device_4,192.168.1.215,Multi-factor Authentication,Berlin,1
+U4,2026-02-01 06:40:11.787182,6,Device_2,192.168.1.133,Password,London,0
+U4,2026-01-13 18:40:11.787182,18,Device_5,192.168.1.225,Multi-factor Authentication,New York,1
+U4,2026-02-06 00:40:11.787182,0,Device_5,10.0.0.233,Password,California,1
+U4,2026-01-22 06:40:11.787182,6,Device_4,10.0.0.125,Multi-factor Authentication,London,1
+U4,2026-01-28 20:40:11.787182,20,Device_2,192.168.1.13,Password,Berlin,1
+U4,2026-01-29 06:40:11.787182,6,Device_3,192.168.1.6,Password,London,1
+U4,2026-02-08 00:40:11.787182,0,Device_4,192.168.1.234,Password,London,1
+U4,2026-01-22 17:40:11.787182,17,Device_5,192.168.1.66,Password,London,1
+U4,2026-02-01 21:40:11.787182,21,Device_4,10.0.0.72,Password,New York,1
+U4,2026-02-01 12:40:11.787182,12,Device_3,192.168.1.24,Password,London,1
+U4,2026-01-14 12:40:11.787182,12,Device_2,192.168.1.150,Password,California,1
+U4,2026-01-18 00:40:11.787182,0,Device_4,10.0.0.255,Password,London,1
+U4,2026-02-03 07:40:11.787182,7,Device_2,10.0.0.93,Password,London,1
+U4,2026-01-20 04:40:11.787182,4,Device_3,10.0.0.182,Password,New York,0
+U4,2026-02-02 15:40:11.787182,15,Device_3,192.168.1.101,Password,New York,1
+U4,2026-01-31 16:40:11.787182,16,Device_3,10.0.0.51,Multi-factor Authentication,London,0
+U4,2026-02-08 11:40:11.787182,11,Device_5,192.168.1.55,Password,London,1
+U5,2026-01-18 23:40:11.787182,23,Device_2,10.0.0.54,Password,London,1
+U5,2026-01-26 19:40:11.787182,19,Device_5,192.168.1.70,Multi-factor Authentication,New York,1
+U5,2026-02-02 14:40:11.787182,14,Device_2,192.168.1.233,Password,California,1
+U5,2026-01-22 06:40:11.787182,6,Device_3,192.168.1.13,Password,New York,1
+U5,2026-02-06 06:40:11.787182,6,Device_5,10.0.0.187,Password,London,1
+U5,2026-02-09 15:40:11.787182,15,Device_5,192.168.1.39,Multi-factor Authentication,New York,0
+U5,2026-01-19 06:40:11.787182,6,Device_5,192.168.1.101,Multi-factor Authentication,California,1
+U5,2026-02-11 03:40:11.787182,3,Device_4,10.0.0.159,Password,London,0
+U5,2026-01-22 15:40:11.787182,15,Device_4,192.168.1.204,Password,Berlin,1
+U5,2026-01-12 16:40:11.787182,16,Device_2,192.168.1.58,Password,California,1
+U5,2026-01-16 09:40:11.787182,9,Device_5,10.0.0.17,Password,New York,1
+U5,2026-01-27 07:40:11.787182,7,Device_4,10.0.0.149,Password,London,1
+U5,2026-02-05 07:40:11.787182,7,Device_4,10.0.0.133,Password,London,1
+U5,2026-02-06 05:40:11.787182,5,Device_2,192.168.1.19,Password,California,0
+U5,2026-02-11 06:40:11.787182,6,Device_4,192.168.1.150,Password,London,1
+U5,2026-01-23 03:40:11.787182,3,Device_2,10.0.0.208,Multi-factor Authentication,London,1
+U5,2026-01-22 18:40:11.787182,18,Device_4,192.168.1.253,Password,California,1
+U5,2026-01-21 16:40:11.787182,16,Device_2,192.168.1.13,Password,Berlin,1
+U5,2026-01-31 18:40:11.787182,18,Device_5,192.168.1.18,Password,California,1
+U5,2026-02-05 10:40:11.787182,10,Device_4,192.168.1.38,Multi-factor Authentication,California,1
+U5,2026-01-29 00:40:11.787182,0,Device_5,192.168.1.121,Password,Berlin,1
+U5,2026-01-20 07:40:11.787182,7,Device_5,10.0.0.222,Multi-factor Authentication,California,1
+U5,2026-01-27 16:40:11.787182,16,Device_5,192.168.1.67,Password,London,0
+U5,2026-01-20 11:40:11.787182,11,Device_3,10.0.0.6,Multi-factor Authentication,London,1
+U5,2026-02-06 21:40:11.787182,21,Device_2,10.0.0.15,Password,Berlin,1
+U5,2026-01-13 06:40:11.787182,6,Device_4,192.168.1.203,Password,New York,1
+U5,2026-01-31 12:40:11.787182,12,Device_3,10.0.0.14,Password,Berlin,1
+U5,2026-01-19 19:40:11.787182,19,Device_2,10.0.0.255,Password,California,1
+U5,2026-02-01 16:40:11.787182,16,Device_4,10.0.0.228,Password,London,1
+U5,2026-02-08 09:40:11.787182,9,Device_2,192.168.1.65,Password,London,0
+U5,2026-02-06 01:40:11.787182,1,Device_3,192.168.1.215,Password,Berlin,1
+U5,2026-01-22 13:40:11.787182,13,Device_4,10.0.0.172,Password,London,1
+U5,2026-02-11 19:40:11.787182,19,Device_4,10.0.0.213,Password,London,1
+U5,2026-01-12 09:40:11.787182,9,Device_2,10.0.0.149,Multi-factor Authentication,London,1
+U5,2026-01-20 18:40:11.787182,18,Device_3,10.0.0.103,Password,Berlin,1
+U5,2026-02-09 10:40:11.787182,10,Device_4,192.168.1.18,Password,London,0
+U5,2026-01-20 00:40:11.787182,0,Device_2,192.168.1.112,Password,New York,1
+U5,2026-01-23 23:40:11.787182,23,Device_2,10.0.0.242,Password,London,1
+U5,2026-01-27 15:40:11.787182,15,Device_5,192.168.1.226,Multi-factor Authentication,California,1
+U5,2026-02-01 03:40:11.787182,3,Device_2,192.168.1.75,Password,London,1
+U5,2026-01-24 15:40:11.787182,15,Device_3,192.168.1.109,Password,Berlin,1
+U5,2026-01-27 06:40:11.787182,6,Device_4,10.0.0.236,Multi-factor Authentication,Berlin,1
+U5,2026-02-03 05:40:11.787182,5,Device_4,192.168.1.19,Password,California,1
+U5,2026-02-10 06:40:11.787182,6,Device_3,192.168.1.40,Password,California,1
+U5,2026-01-28 01:40:11.787182,1,Device_4,192.168.1.111,Multi-factor Authentication,California,1
+U5,2026-01-20 00:40:11.787182,0,Device_4,192.168.1.25,Multi-factor Authentication,Berlin,1
+U5,2026-01-27 03:40:11.787182,3,Device_4,10.0.0.57,Password,California,1
+U5,2026-02-01 04:40:11.787182,4,Device_4,10.0.0.3,Password,New York,1
+U5,2026-02-08 10:40:11.787182,10,Device_5,192.168.1.31,Password,New York,1
+U5,2026-01-23 05:40:11.787182,5,Device_3,10.0.0.157,Password,London,1
+U6,2026-02-03 04:40:11.787182,4,Device_3,10.0.0.230,Password,California,1
+U6,2026-01-29 08:40:11.787182,8,Device_2,192.168.1.165,Password,London,1
+U6,2026-02-05 06:40:11.787182,6,Device_5,192.168.1.156,Password,London,1
+U6,2026-01-17 15:40:11.787182,15,Device_4,10.0.0.135,Password,New York,1
+U6,2026-02-10 16:40:11.787182,16,Device_4,10.0.0.54,Password,California,1
+U6,2026-01-24 08:40:11.787182,8,Device_3,192.168.1.35,Password,Berlin,1
+U6,2026-01-27 05:40:11.787182,5,Device_4,192.168.1.113,Password,Berlin,1
+U6,2026-01-13 02:40:11.787182,2,Device_2,192.168.1.251,Password,California,1
+U6,2026-02-05 20:40:11.787182,20,Device_2,10.0.0.58,Password,Berlin,1
+U6,2026-02-02 15:40:11.787182,15,Device_4,192.168.1.26,Multi-factor Authentication,London,1
+U6,2026-02-01 21:40:11.787182,21,Device_4,192.168.1.124,Password,New York,1
+U6,2026-01-31 09:40:11.787182,9,Device_5,10.0.0.202,Password,New York,1
+U6,2026-01-21 20:40:11.787182,20,Device_2,192.168.1.164,Password,California,1
+U6,2026-01-20 17:40:11.787182,17,Device_3,10.0.0.221,Password,New York,1
+U6,2026-01-15 06:40:11.787182,6,Device_2,192.168.1.92,Password,Berlin,1
+U6,2026-01-15 16:40:11.787182,16,Device_2,192.168.1.166,Password,London,1
+U6,2026-02-07 18:40:11.787182,18,Device_4,10.0.0.225,Password,California,1
+U6,2026-02-04 20:40:11.787182,20,Device_4,192.168.1.220,Password,London,1
+U6,2026-01-12 09:40:11.787182,9,Device_3,192.168.1.65,Password,New York,1
+U6,2026-02-07 06:40:11.787182,6,Device_4,192.168.1.252,Password,New York,1
+U6,2026-01-13 01:40:11.787182,1,Device_4,10.0.0.122,Password,California,1
+U6,2026-01-15 13:40:11.787182,13,Device_5,10.0.0.197,Password,California,1
+U6,2026-02-06 06:40:11.787182,6,Device_3,192.168.1.61,Password,London,1
+U6,2026-02-04 09:40:11.787182,9,Device_4,192.168.1.51,Password,California,1
+U6,2026-01-22 07:40:11.787182,7,Device_2,192.168.1.192,Password,London,1
+U6,2026-02-06 02:40:11.787182,2,Device_2,192.168.1.22,Password,New York,1
+U6,2026-01-31 15:40:11.787182,15,Device_4,192.168.1.22,Password,California,1
+U6,2026-01-24 16:40:11.787182,16,Device_5,10.0.0.29,Password,California,1
+U6,2026-01-21 02:40:11.787182,2,Device_5,192.168.1.167,Password,Berlin,1
+U6,2026-02-08 02:40:11.787182,2,Device_2,192.168.1.41,Password,New York,1
+U6,2026-02-06 00:40:11.787182,0,Device_4,192.168.1.173,Multi-factor Authentication,London,1
+U6,2026-01-18 03:40:11.787182,3,Device_3,10.0.0.224,Password,California,1
+U6,2026-02-02 09:40:11.787182,9,Device_2,192.168.1.196,Password,California,1
+U6,2026-01-18 10:40:11.787182,10,Device_2,10.0.0.23,Password,London,1
+U6,2026-01-21 18:40:11.787182,18,Device_3,192.168.1.88,Password,New York,1
+U6,2026-01-27 23:40:11.787182,23,Device_4,192.168.1.125,Password,New York,1
+U6,2026-01-29 20:40:11.787182,20,Device_3,192.168.1.109,Password,New York,1
+U6,2026-02-02 17:40:11.787182,17,Device_2,192.168.1.204,Multi-factor Authentication,New York,1
+U6,2026-01-26 02:40:11.787182,2,Device_5,10.0.0.5,Password,London,1
+U6,2026-02-04 11:40:11.787182,11,Device_3,10.0.0.201,Password,Berlin,1
+U6,2026-02-08 11:40:11.787182,11,Device_5,10.0.0.200,Password,London,1
+U6,2026-01-28 07:40:11.787182,7,Device_2,192.168.1.136,Multi-factor Authentication,London,1
+U6,2026-01-26 19:40:11.787182,19,Device_4,192.168.1.137,Password,London,1
+U6,2026-02-08 20:40:11.787182,20,Device_3,192.168.1.157,Password,New York,1
+U6,2026-01-12 09:40:11.787182,9,Device_5,10.0.0.212,Multi-factor Authentication,London,1
+U6,2026-01-27 02:40:11.787182,2,Device_3,192.168.1.200,Password,New York,1
+U6,2026-01-26 14:40:11.787182,14,Device_5,192.168.1.64,Password,California,1
+U6,2026-01-24 18:40:11.787182,18,Device_5,10.0.0.194,Password,California,1
+U6,2026-01-19 16:40:11.787182,16,Device_2,10.0.0.246,Multi-factor Authentication,London,1
+U6,2026-01-22 22:40:11.787182,22,Device_3,10.0.0.190,Password,London,1
+U7,2026-01-13 07:40:11.787182,7,Device_4,192.168.1.88,Password,California,1
+U7,2026-01-17 09:40:11.787182,9,Device_4,10.0.0.42,Multi-factor Authentication,Berlin,1
+U7,2026-01-21 14:40:11.787182,14,Device_4,10.0.0.246,Password,New York,0
+U7,2026-02-02 09:40:11.787182,9,Device_3,10.0.0.66,Password,Berlin,1
+U7,2026-01-23 04:40:11.787182,4,Device_3,10.0.0.222,Password,Berlin,1
+U7,2026-01-24 20:40:11.787182,20,Device_4,192.168.1.211,Password,California,1
+U7,2026-01-17 15:40:11.787182,15,Device_4,10.0.0.11,Password,Berlin,1
+U7,2026-01-31 23:40:11.787182,23,Device_4,192.168.1.181,Password,London,1
+U7,2026-02-06 15:40:11.787182,15,Device_4,192.168.1.42,Password,London,0
+U7,2026-01-21 04:40:11.787182,4,Device_3,192.168.1.187,Password,New York,1
+U7,2026-01-18 15:40:11.787182,15,Device_2,192.168.1.55,Multi-factor Authentication,London,1
+U7,2026-01-19 20:40:11.787182,20,Device_5,10.0.0.121,Password,London,1
+U7,2026-02-01 11:40:11.787182,11,Device_4,10.0.0.51,Password,London,1
+U7,2026-01-25 13:40:11.787182,13,Device_4,10.0.0.229,Password,California,1
+U7,2026-02-01 10:40:11.787182,10,Device_2,192.168.1.123,Password,New York,0
+U7,2026-01-13 16:40:11.787182,16,Device_4,10.0.0.27,Password,New York,1
+U7,2026-02-04 18:40:11.787182,18,Device_5,192.168.1.120,Multi-factor Authentication,California,1
+U7,2026-01-26 20:40:11.787182,20,Device_2,192.168.1.223,Password,London,0
+U7,2026-02-07 23:40:11.787182,23,Device_5,192.168.1.158,Password,Berlin,0
+U7,2026-01-26 18:40:11.787182,18,Device_3,10.0.0.212,Password,Berlin,1
+U7,2026-02-04 17:40:11.787182,17,Device_2,10.0.0.191,Password,California,1
+U7,2026-01-19 19:40:11.787182,19,Device_4,192.168.1.77,Password,California,0
+U7,2026-02-10 07:40:11.787182,7,Device_4,10.0.0.63,Password,Berlin,1
+U7,2026-02-02 01:40:11.787182,1,Device_2,10.0.0.132,Password,New York,1
+U7,2026-02-04 00:40:11.787182,0,Device_3,10.0.0.212,Password,London,1
+U7,2026-01-29 05:40:11.787182,5,Device_2,10.0.0.103,Password,California,1
+U7,2026-01-22 19:40:11.787182,19,Device_5,192.168.1.254,Password,Berlin,1
+U7,2026-01-13 23:40:11.787182,23,Device_4,10.0.0.16,Password,Berlin,1
+U7,2026-01-18 16:40:11.787182,16,Device_2,10.0.0.255,Password,New York,1
+U7,2026-02-11 05:40:11.787182,5,Device_4,10.0.0.76,Password,California,1
+U7,2026-02-09 09:40:11.787182,9,Device_3,10.0.0.228,Password,California,1
+U7,2026-01-22 20:40:11.787182,20,Device_4,10.0.0.49,Password,Berlin,1
+U7,2026-01-27 22:40:11.787182,22,Device_3,192.168.1.43,Password,Berlin,1
+U7,2026-02-08 06:40:11.787182,6,Device_2,192.168.1.196,Password,California,1
+U7,2026-01-16 01:40:11.787182,1,Device_4,10.0.0.70,Password,New York,1
+U7,2026-02-06 04:40:11.787182,4,Device_2,10.0.0.111,Multi-factor Authentication,California,0
+U7,2026-02-05 04:40:11.787182,4,Device_2,192.168.1.40,Password,California,1
+U7,2026-01-19 03:40:11.787182,3,Device_4,10.0.0.35,Password,Berlin,1
+U7,2026-01-28 07:40:11.787182,7,Device_3,10.0.0.103,Password,California,1
+U7,2026-01-27 17:40:11.787182,17,Device_3,192.168.1.207,Multi-factor Authentication,London,1
+U7,2026-02-07 06:40:11.787182,6,Device_2,192.168.1.136,Multi-factor Authentication,London,1
+U7,2026-02-06 05:40:11.787182,5,Device_5,10.0.0.94,Password,California,1
+U7,2026-01-23 23:40:11.787182,23,Device_3,192.168.1.173,Password,California,1
+U7,2026-01-22 10:40:11.787182,10,Device_5,10.0.0.46,Password,New York,1
+U7,2026-01-26 06:40:11.787182,6,Device_5,192.168.1.206,Password,New York,1
+U7,2026-01-18 09:40:11.787182,9,Device_3,192.168.1.54,Password,London,1
+U7,2026-02-07 15:40:11.787182,15,Device_2,10.0.0.101,Password,New York,1
+U7,2026-01-15 11:40:11.787182,11,Device_4,192.168.1.182,Password,London,1
+U7,2026-01-26 06:40:11.787182,6,Device_3,10.0.0.130,Password,California,1
+U7,2026-01-29 06:40:11.787182,6,Device_3,10.0.0.17,Multi-factor Authentication,London,1
+U8,2026-02-03 01:40:11.787182,1,Device_5,192.168.1.39,Password,London,0
+U8,2026-01-27 05:40:11.787182,5,Device_5,192.168.1.100,Password,California,1
+U8,2026-01-20 18:40:11.787182,18,Device_5,192.168.1.180,Password,California,1
+U8,2026-01-27 12:40:11.787182,12,Device_3,10.0.0.244,Password,London,1
+U8,2026-01-25 21:40:11.787182,21,Device_5,192.168.1.189,Password,Berlin,1
+U8,2026-01-21 06:40:11.787182,6,Device_3,192.168.1.33,Password,California,1
+U8,2026-01-23 14:40:11.787182,14,Device_2,192.168.1.124,Password,New York,1
+U8,2026-01-21 02:40:11.787182,2,Device_5,192.168.1.45,Password,New York,0
+U8,2026-02-04 15:40:11.787182,15,Device_2,192.168.1.134,Password,Berlin,1
+U8,2026-01-19 22:40:11.787182,22,Device_4,10.0.0.10,Password,Berlin,1
+U8,2026-01-27 03:40:11.787182,3,Device_3,10.0.0.120,Password,London,1
+U8,2026-01-29 06:40:11.787182,6,Device_4,10.0.0.50,Password,California,1
+U8,2026-01-23 02:40:11.787182,2,Device_2,192.168.1.115,Multi-factor Authentication,London,1
+U8,2026-02-07 05:40:11.787182,5,Device_4,10.0.0.73,Password,New York,1
+U8,2026-02-02 18:40:11.787182,18,Device_4,10.0.0.109,Password,London,1
+U8,2026-01-23 13:40:11.787182,13,Device_2,192.168.1.248,Password,London,1
+U8,2026-01-16 05:40:11.787182,5,Device_2,10.0.0.42,Password,Berlin,1
+U8,2026-01-22 15:40:11.787182,15,Device_3,10.0.0.238,Password,California,1
+U8,2026-01-22 14:40:11.787182,14,Device_4,10.0.0.156,Multi-factor Authentication,New York,1
+U8,2026-01-22 06:40:11.787182,6,Device_3,192.168.1.151,Password,London,1
+U8,2026-01-21 21:40:11.787182,21,Device_5,10.0.0.128,Password,London,1
+U8,2026-01-17 08:40:11.787182,8,Device_2,10.0.0.254,Multi-factor Authentication,London,1
+U8,2026-01-17 19:40:11.787182,19,Device_2,10.0.0.198,Password,New York,1
+U8,2026-02-11 21:40:11.787182,21,Device_2,192.168.1.137,Password,London,1
+U8,2026-02-05 03:40:11.787182,3,Device_4,192.168.1.167,Multi-factor Authentication,Berlin,1
+U8,2026-01-24 01:40:11.787182,1,Device_2,10.0.0.38,Password,New York,1
+U8,2026-02-05 23:40:11.787182,23,Device_5,192.168.1.218,Multi-factor Authentication,New York,1
+U8,2026-02-09 10:40:11.787182,10,Device_2,192.168.1.214,Password,California,1
+U8,2026-01-21 22:40:11.787182,22,Device_3,192.168.1.252,Password,Berlin,1
+U8,2026-02-06 03:40:11.787182,3,Device_2,10.0.0.118,Multi-factor Authentication,California,1
+U8,2026-02-07 12:40:11.787182,12,Device_5,10.0.0.247,Password,California,0
+U8,2026-02-07 14:40:11.787182,14,Device_5,192.168.1.192,Password,New York,1
+U8,2026-01-15 07:40:11.787182,7,Device_3,192.168.1.12,Password,Berlin,1
+U8,2026-02-01 06:40:11.787182,6,Device_4,192.168.1.79,Password,Berlin,1
+U8,2026-01-31 21:40:11.787182,21,Device_3,192.168.1.72,Password,London,1
+U8,2026-02-04 11:40:11.787182,11,Device_3,192.168.1.5,Multi-factor Authentication,California,1
+U8,2026-01-27 16:40:11.787182,16,Device_2,10.0.0.54,Multi-factor Authentication,London,1
+U8,2026-01-29 14:40:11.787182,14,Device_3,10.0.0.175,Multi-factor Authentication,New York,1
+U8,2026-01-24 16:40:11.787182,16,Device_2,10.0.0.228,Multi-factor Authentication,New York,1
+U8,2026-01-16 01:40:11.787182,1,Device_3,192.168.1.71,Password,London,0
+U8,2026-01-13 08:40:11.787182,8,Device_4,192.168.1.19,Password,California,1
+U8,2026-01-14 22:40:11.787182,22,Device_3,10.0.0.245,Password,Berlin,1
+U8,2026-01-16 12:40:11.787182,12,Device_5,10.0.0.164,Password,Berlin,1
+U8,2026-02-06 02:40:11.787182,2,Device_5,192.168.1.170,Password,California,1
+U8,2026-01-22 08:40:11.787182,8,Device_5,10.0.0.42,Password,California,0
+U8,2026-01-16 04:40:11.787182,4,Device_5,10.0.0.59,Password,Berlin,1
+U8,2026-01-20 23:40:11.787182,23,Device_4,192.168.1.28,Multi-factor Authentication,Berlin,1
+U8,2026-02-03 11:40:11.787182,11,Device_3,10.0.0.169,Password,New York,1
+U8,2026-01-23 09:40:11.787182,9,Device_4,192.168.1.216,Password,Berlin,1
+U8,2026-02-02 22:40:11.787182,22,Device_5,192.168.1.221,Password,New York,1
+U9,2026-02-07 06:40:11.787182,6,Device_2,192.168.1.228,Password,New York,1
+U9,2026-02-03 10:40:11.787182,10,Device_5,192.168.1.86,Password,California,0
+U9,2026-02-06 07:40:11.787182,7,Device_5,10.0.0.213,Multi-factor Authentication,Berlin,1
+U9,2026-02-07 06:40:11.787182,6,Device_4,192.168.1.119,Password,London,1
+U9,2026-01-21 19:40:11.787182,19,Device_4,10.0.0.160,Password,Berlin,0
+U9,2026-02-11 21:40:11.787182,21,Device_4,10.0.0.12,Password,New York,1
+U9,2026-02-09 16:40:11.787182,16,Device_5,192.168.1.158,Password,New York,1
+U9,2026-01-20 07:40:11.787182,7,Device_5,192.168.1.191,Password,California,1
+U9,2026-01-21 04:40:11.787182,4,Device_4,192.168.1.51,Password,California,1
+U9,2026-01-23 10:40:11.787182,10,Device_5,10.0.0.104,Password,Berlin,1
+U9,2026-02-03 15:40:11.787182,15,Device_5,10.0.0.251,Password,London,0
+U9,2026-01-28 17:40:11.787182,17,Device_4,192.168.1.238,Password,California,1
+U9,2026-01-22 20:40:11.787182,20,Device_3,192.168.1.19,Password,New York,1
+U9,2026-01-13 11:40:11.787182,11,Device_2,192.168.1.236,Password,California,1
+U9,2026-02-02 06:40:11.787182,6,Device_5,192.168.1.36,Password,Berlin,1
+U9,2026-01-17 06:40:11.787182,6,Device_2,192.168.1.114,Password,Berlin,1
+U9,2026-01-31 02:40:11.787182,2,Device_3,10.0.0.67,Multi-factor Authentication,New York,1
+U9,2026-01-21 17:40:11.787182,17,Device_4,10.0.0.105,Password,New York,1
+U9,2026-01-29 10:40:11.787182,10,Device_3,192.168.1.143,Password,Berlin,0
+U9,2026-01-12 09:40:11.787182,9,Device_4,192.168.1.124,Password,California,1
+U9,2026-01-18 22:40:11.787182,22,Device_5,10.0.0.15,Password,California,1
+U9,2026-01-19 19:40:11.787182,19,Device_4,192.168.1.39,Password,New York,1
+U9,2026-01-20 06:40:11.787182,6,Device_5,192.168.1.116,Password,New York,1
+U9,2026-01-28 14:40:11.787182,14,Device_5,192.168.1.153,Password,London,0
+U9,2026-01-18 17:40:11.787182,17,Device_3,10.0.0.9,Password,New York,0
+U9,2026-01-21 04:40:11.787182,4,Device_5,192.168.1.30,Password,Berlin,1
+U9,2026-02-04 00:40:11.787182,0,Device_2,10.0.0.171,Multi-factor Authentication,Berlin,1
+U9,2026-01-29 08:40:11.787182,8,Device_2,10.0.0.125,Password,London,1
+U9,2026-02-08 04:40:11.787182,4,Device_2,192.168.1.124,Password,California,1
+U9,2026-02-05 17:40:11.787182,17,Device_3,192.168.1.57,Multi-factor Authentication,California,1
+U9,2026-01-24 12:40:11.787182,12,Device_2,10.0.0.188,Password,New York,1
+U9,2026-01-29 18:40:11.787182,18,Device_5,192.168.1.160,Password,California,1
+U9,2026-01-20 16:40:11.787182,16,Device_2,10.0.0.155,Password,London,1
+U9,2026-01-13 23:40:11.787182,23,Device_4,10.0.0.110,Password,California,1
+U9,2026-01-13 18:40:11.787182,18,Device_2,10.0.0.45,Password,London,1
+U9,2026-01-21 03:40:11.787182,3,Device_5,10.0.0.12,Password,Berlin,1
+U9,2026-01-29 06:40:11.787182,6,Device_2,192.168.1.214,Password,New York,1
+U9,2026-01-23 19:40:11.787182,19,Device_4,10.0.0.173,Password,London,1
+U9,2026-01-31 16:40:11.787182,16,Device_5,10.0.0.84,Password,Berlin,1
+U9,2026-01-30 07:40:11.787182,7,Device_2,10.0.0.119,Multi-factor Authentication,Berlin,1
+U9,2026-02-12 02:40:11.787182,2,Device_4,10.0.0.28,Password,London,1
+U9,2026-01-12 07:40:11.787182,7,Device_3,10.0.0.86,Password,New York,1
+U9,2026-02-10 13:40:11.787182,13,Device_2,192.168.1.79,Password,California,1
+U9,2026-01-27 20:40:11.787182,20,Device_4,192.168.1.34,Multi-factor Authentication,California,1
+U9,2026-01-16 08:40:11.787182,8,Device_4,10.0.0.152,Password,California,1
+U9,2026-01-26 08:40:11.787182,8,Device_4,192.168.1.66,Password,New York,1
+U9,2026-02-11 01:40:11.787182,1,Device_3,192.168.1.156,Password,Berlin,1
+U9,2026-01-12 22:40:11.787182,22,Device_5,10.0.0.186,Password,New York,1
+U9,2026-01-17 06:40:11.787182,6,Device_3,10.0.0.169,Password,Berlin,1
+U9,2026-01-22 06:40:11.787182,6,Device_3,192.168.1.189,Multi-factor Authentication,Berlin,1
+U10,2026-01-31 22:40:11.787182,22,Device_5,192.168.1.45,Password,California,1
+U10,2026-01-18 12:40:11.787182,12,Device_5,10.0.0.113,Password,California,1
+U10,2026-01-28 14:40:11.787182,14,Device_2,10.0.0.211,Multi-factor Authentication,London,1
+U10,2026-01-19 22:40:11.787182,22,Device_5,192.168.1.84,Password,California,1
+U10,2026-01-19 17:40:11.787182,17,Device_5,10.0.0.102,Password,California,0
+U10,2026-01-26 01:40:11.787182,1,Device_4,192.168.1.64,Password,New York,1
+U10,2026-01-23 11:40:11.787182,11,Device_3,192.168.1.28,Password,Berlin,1
+U10,2026-01-18 12:40:11.787182,12,Device_2,192.168.1.167,Password,Berlin,1
+U10,2026-01-24 21:40:11.787182,21,Device_4,10.0.0.64,Password,Berlin,1
+U10,2026-02-03 01:40:11.787182,1,Device_5,10.0.0.225,Password,New York,0
+U10,2026-01-14 06:40:11.787182,6,Device_5,192.168.1.214,Multi-factor Authentication,London,1
+U10,2026-02-09 06:40:11.787182,6,Device_2,10.0.0.173,Password,Berlin,1
+U10,2026-01-28 18:40:11.787182,18,Device_2,10.0.0.2,Password,London,1
+U10,2026-01-19 18:40:11.787182,18,Device_3,10.0.0.116,Password,Berlin,0
+U10,2026-02-08 15:40:11.787182,15,Device_4,10.0.0.201,Password,California,1
+U10,2026-02-11 19:40:11.787182,19,Device_4,192.168.1.84,Password,California,1
+U10,2026-02-02 11:40:11.787182,11,Device_3,10.0.0.211,Multi-factor Authentication,London,1
+U10,2026-01-18 08:40:11.787182,8,Device_5,10.0.0.148,Password,Berlin,1
+U10,2026-01-12 19:40:11.787182,19,Device_2,192.168.1.138,Password,London,0
+U10,2026-02-03 17:40:11.787182,17,Device_3,10.0.0.180,Password,Berlin,1
+U10,2026-02-07 18:40:11.787182,18,Device_3,192.168.1.213,Multi-factor Authentication,California,1
+U10,2026-02-11 22:40:11.787182,22,Device_2,192.168.1.63,Password,California,0
+U10,2026-01-19 03:40:11.787182,3,Device_5,192.168.1.157,Password,London,1
+U10,2026-01-14 23:40:11.787182,23,Device_4,192.168.1.121,Password,New York,1
+U10,2026-01-22 03:40:11.787182,3,Device_2,192.168.1.72,Password,London,1
+U10,2026-02-09 16:40:11.787182,16,Device_2,10.0.0.44,Password,London,1
+U10,2026-01-25 09:40:11.787182,9,Device_3,192.168.1.190,Password,New York,1
+U10,2026-01-31 16:40:11.787182,16,Device_3,192.168.1.187,Password,Berlin,1
+U10,2026-01-21 15:40:11.787182,15,Device_4,10.0.0.145,Password,California,1
+U10,2026-02-06 13:40:11.787182,13,Device_2,10.0.0.8,Password,Berlin,1
+U10,2026-01-25 12:40:11.787182,12,Device_4,10.0.0.168,Password,California,0
+U10,2026-02-03 20:40:11.787182,20,Device_4,10.0.0.181,Password,New York,1
+U10,2026-02-11 19:40:11.787182,19,Device_5,192.168.1.14,Password,Berlin,1
+U10,2026-02-04 09:40:11.787182,9,Device_3,10.0.0.11,Password,California,1
+U10,2026-02-06 04:40:11.787182,4,Device_2,10.0.0.217,Password,California,1
+U10,2026-01-24 17:40:11.787182,17,Device_5,192.168.1.26,Password,London,1
+U10,2026-01-15 07:40:11.787182,7,Device_5,10.0.0.85,Password,Berlin,1
+U10,2026-01-18 07:40:11.787182,7,Device_5,192.168.1.205,Multi-factor Authentication,New York,1
+U10,2026-02-04 16:40:11.787182,16,Device_2,10.0.0.24,Password,California,1
+U10,2026-01-31 07:40:11.787182,7,Device_2,10.0.0.246,Password,Berlin,1
+U10,2026-01-27 18:40:11.787182,18,Device_4,10.0.0.69,Password,London,1
+U10,2026-02-09 17:40:11.787182,17,Device_2,192.168.1.173,Password,London,1
+U10,2026-02-11 16:40:11.787182,16,Device_5,192.168.1.215,Password,California,1
+U10,2026-01-16 03:40:11.787182,3,Device_3,192.168.1.202,Password,Berlin,1
+U10,2026-01-21 18:40:11.787182,18,Device_2,192.168.1.38,Multi-factor Authentication,California,1
+U10,2026-02-05 17:40:11.787182,17,Device_3,10.0.0.84,Password,California,1
+U10,2026-01-22 10:40:11.787182,10,Device_2,10.0.0.1,Password,London,1
+U10,2026-02-04 11:40:11.787182,11,Device_2,192.168.1.250,Password,London,1
+U10,2026-01-27 21:40:11.787182,21,Device_4,192.168.1.238,Multi-factor Authentication,California,1
+U10,2026-01-12 14:40:11.787182,14,Device_2,10.0.0.200,Password,New York,1
