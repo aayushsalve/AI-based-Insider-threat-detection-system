@@ -36,3 +36,24 @@ file_access_data = generate_file_access_data(num_users=10, num_records_per_user=
 
 # Save the data to CSV
 save_data_to_csv(file_access_data)
+# Initialize git repository
+git init
+
+# Configure git (use your GitHub username and email)
+git config user.name "Your Name"
+git config user.email "your.email@github.com"
+
+# Add all files
+git add .
+
+# Create initial commit
+git commit -m "Initial commit: Insider Threat Detection project"
+
+# Add GitHub remote (replace USERNAME and REPO-NAME)
+git remote add origin https://github.com/USERNAME/Insider-Threat-Detection.git
+
+# Rename branch to main (if needed)
+git branch -M main
+
+# Push to GitHub
+git push -u origin main
