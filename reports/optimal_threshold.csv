@@ -1,0 +1,6 @@
+metric,value
+optimal_threshold,0.5388888965050379
+f1_score,0.99999999995
+auc,1.0
+precision,1.0
+recall,1.0

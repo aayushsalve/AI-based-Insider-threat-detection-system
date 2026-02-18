@@ -1,0 +1,507 @@
+2026-02-17 07:29:16,989 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:29:16,991 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 07:29:16,991 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:29:16,991 - data_pipeline - INFO - Loading data files...
+2026-02-17 07:29:17,012 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 07:29:17,049 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 07:29:17,083 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 07:29:17,095 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 07:29:17,115 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 07:29:17,115 - data_pipeline - INFO - Extracting features...
+2026-02-17 07:29:40,756 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:29:40,756 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 07:29:40,756 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:29:40,756 - data_pipeline - INFO - Loading data files...
+2026-02-17 07:29:40,758 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 07:29:40,763 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 07:29:40,766 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 07:29:40,769 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 07:29:40,770 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 07:29:40,770 - data_pipeline - INFO - Extracting features...
+2026-02-17 07:29:48,398 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:29:48,398 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 07:29:48,398 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:29:48,398 - data_pipeline - INFO - Loading data files...
+2026-02-17 07:29:48,400 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 07:29:48,404 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 07:29:48,406 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 07:29:48,410 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 07:29:48,411 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 07:29:48,411 - data_pipeline - INFO - Extracting features...
+2026-02-17 07:30:49,739 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:30:49,739 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 07:30:49,739 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:30:49,739 - data_pipeline - INFO - Loading data files...
+2026-02-17 07:30:49,741 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 07:30:49,747 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 07:30:49,750 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 07:30:49,752 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 07:30:49,753 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 07:30:49,753 - data_pipeline - INFO - Extracting features...
+2026-02-17 07:31:37,186 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:31:37,186 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 07:31:37,186 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:31:37,187 - data_pipeline - INFO - Loading data files...
+2026-02-17 07:31:37,188 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 07:31:37,193 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 07:31:37,196 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 07:31:37,199 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 07:31:37,200 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 07:31:37,200 - data_pipeline - INFO - Extracting features...
+2026-02-17 07:33:19,348 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:33:19,348 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 07:33:19,350 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:33:19,350 - data_pipeline - INFO - Loading data files...
+2026-02-17 07:33:19,352 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 07:33:19,357 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 07:33:19,360 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 07:33:19,363 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 07:33:19,364 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 07:33:19,364 - data_pipeline - INFO - Extracting features...
+2026-02-17 07:34:55,667 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:34:55,667 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 07:34:55,667 - data_pipeline - INFO - ======================================================================
+2026-02-17 07:34:55,667 - data_pipeline - INFO - Loading data files...
+2026-02-17 07:34:55,668 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 07:34:55,675 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 07:34:55,677 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 07:34:55,680 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 07:34:55,682 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 07:34:55,682 - data_pipeline - INFO - Extracting features...
+2026-02-17 07:34:55,890 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 07:34:55,890 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 07:34:55,909 - data_pipeline - INFO - ✅ Scaled 11 features
+2026-02-17 07:34:55,910 - data_pipeline - INFO - ✅ Saved scaler to D:\Major Project\Insider Threat Detection\Data\Models\scaler.pkl
+2026-02-17 09:18:35,621 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:18:35,621 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:18:35,621 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:18:35,621 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:18:35,629 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:18:35,645 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:18:35,658 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:18:35,670 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:18:35,672 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:18:35,672 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:18:35,854 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:18:35,854 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:18:35,857 - data_pipeline - INFO - ✅ Scaled 11 features
+2026-02-17 09:18:35,857 - data_pipeline - INFO - ✅ Saved scaler to D:\Major Project\Insider Threat Detection\Data\Models\scaler.pkl
+2026-02-17 09:32:08,489 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:32:08,489 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:32:08,489 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:32:08,489 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:32:08,492 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:32:08,496 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:32:08,499 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:32:08,501 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:32:08,503 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:32:08,503 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:32:08,711 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:32:08,712 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:32:08,717 - data_pipeline - INFO - ✅ Scaled 17 features
+2026-02-17 09:32:08,717 - data_pipeline - INFO - ✅ Saved scaler to D:\Major Project\Insider Threat Detection\Data\Models\scaler.pkl
+2026-02-17 09:36:03,701 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:36:03,701 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:36:03,701 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:36:03,701 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:36:03,703 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:36:03,708 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:36:03,711 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:36:03,713 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:36:03,714 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:36:03,714 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:36:03,918 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:36:03,918 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:36:03,921 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:36:03,921 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 09:36:03,921 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:44:02,447 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:44:02,447 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:44:02,447 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:44:02,447 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:44:02,449 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:44:02,454 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:44:02,457 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:44:02,460 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:44:02,461 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:44:02,461 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:44:02,668 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:44:02,668 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:44:02,672 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:44:02,672 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 09:44:02,673 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:45:33,221 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:45:33,221 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:45:33,221 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:45:33,222 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:45:33,223 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:45:33,229 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:45:33,232 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:45:33,234 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:45:33,235 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:45:33,235 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:45:33,445 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:45:33,445 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:45:33,448 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:45:33,448 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 09:45:33,449 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:47:13,671 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:47:13,671 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:47:13,671 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:47:13,671 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:47:13,674 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:47:13,678 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:47:13,681 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:47:13,684 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:47:13,685 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:47:13,685 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:47:13,895 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:47:13,895 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:47:13,900 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:47:13,901 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 09:47:13,901 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:48:22,326 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:48:22,326 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:48:22,326 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:48:22,326 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:48:22,329 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:48:22,335 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:48:22,340 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:48:22,344 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:48:22,345 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:48:22,346 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:48:22,566 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:48:22,567 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:48:22,570 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:48:22,570 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 09:48:22,571 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:53:48,042 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:53:48,042 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:53:48,043 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:53:48,043 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:53:48,044 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:53:48,049 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:53:48,052 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:53:48,054 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:53:48,055 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:53:48,055 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:53:48,262 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:53:48,263 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:53:48,266 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:53:48,266 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 09:53:48,266 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:58:14,197 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:58:14,197 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 09:58:14,197 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:58:14,197 - data_pipeline - INFO - Loading data files...
+2026-02-17 09:58:14,199 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 09:58:14,204 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 09:58:14,206 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 09:58:14,209 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 09:58:14,209 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 09:58:14,210 - data_pipeline - INFO - Extracting features...
+2026-02-17 09:58:14,415 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 09:58:14,415 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 09:58:14,418 - data_pipeline - INFO - ======================================================================
+2026-02-17 09:58:14,418 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 09:58:14,418 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:40:14,464 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:40:14,464 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 10:40:14,465 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:40:14,465 - data_pipeline - INFO - Loading data files...
+2026-02-17 10:40:14,467 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 10:40:14,473 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 10:40:14,475 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 10:40:14,478 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 10:40:14,479 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 10:40:14,479 - data_pipeline - INFO - Extracting features...
+2026-02-17 10:40:14,742 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 10:40:14,742 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 10:40:14,745 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:40:14,745 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 10:40:14,745 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:54:57,821 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:54:57,821 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 10:54:57,821 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:54:57,821 - data_pipeline - INFO - Loading data files...
+2026-02-17 10:54:57,823 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 10:54:57,829 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 10:54:57,834 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 10:54:57,837 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 10:54:57,838 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 10:54:57,838 - data_pipeline - INFO - Extracting features...
+2026-02-17 10:54:58,125 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 10:54:58,125 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 10:54:58,128 - data_pipeline - INFO - ======================================================================
+2026-02-17 10:54:58,128 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 10:54:58,129 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:09:58,673 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:09:58,673 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 11:09:58,673 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:09:58,673 - data_pipeline - INFO - Loading data files...
+2026-02-17 11:09:58,675 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 11:09:58,680 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 11:09:58,683 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 11:09:58,686 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 11:09:58,687 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 11:09:58,687 - data_pipeline - INFO - Extracting features...
+2026-02-17 11:09:58,929 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 11:09:58,929 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 11:09:58,932 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:09:58,932 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 11:09:58,933 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:18:25,967 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:18:25,967 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 11:18:25,967 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:18:25,967 - data_pipeline - INFO - Loading data files...
+2026-02-17 11:18:25,969 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 11:18:25,974 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 11:18:25,977 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 11:18:25,979 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 11:18:25,980 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 11:18:25,980 - data_pipeline - INFO - Extracting features...
+2026-02-17 11:18:26,228 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 11:18:26,228 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 11:18:26,231 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:18:26,231 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 11:18:26,231 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:27:44,081 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:27:44,081 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 11:27:44,081 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:27:44,081 - data_pipeline - INFO - Loading data files...
+2026-02-17 11:27:44,083 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 11:27:44,088 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 11:27:44,091 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 11:27:44,093 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 11:27:44,094 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 11:27:44,094 - data_pipeline - INFO - Extracting features...
+2026-02-17 11:27:44,350 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 11:27:44,350 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 11:27:44,354 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:27:44,354 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 11:27:44,354 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:37:51,384 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:37:51,384 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 11:37:51,384 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:37:51,384 - data_pipeline - INFO - Loading data files...
+2026-02-17 11:37:51,386 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 11:37:51,391 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 11:37:51,393 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 11:37:51,396 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 11:37:51,398 - data_pipeline - INFO - ✅ Loaded threat_labels: 99 rows
+2026-02-17 11:37:51,398 - data_pipeline - INFO - Extracting features...
+2026-02-17 11:37:51,659 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 11:37:51,659 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 11:37:51,662 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:37:51,662 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 11:37:51,662 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:54:14,850 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:54:14,850 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 11:54:14,850 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:54:14,850 - data_pipeline - INFO - Loading data files...
+2026-02-17 11:54:14,852 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 11:54:14,857 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 11:54:14,859 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 11:54:14,861 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 11:54:14,863 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 11:54:14,864 - data_pipeline - INFO - Extracting features...
+2026-02-17 11:54:15,114 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 11:54:15,114 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 11:54:15,118 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:54:15,118 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 11:54:15,118 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:55:04,340 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:55:04,340 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 11:55:04,340 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:55:04,340 - data_pipeline - INFO - Loading data files...
+2026-02-17 11:55:04,342 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 11:55:04,347 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 11:55:04,350 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 11:55:04,352 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 11:55:04,353 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 11:55:04,353 - data_pipeline - INFO - Extracting features...
+2026-02-17 11:55:04,608 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 11:55:04,609 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 11:55:04,613 - data_pipeline - INFO - ======================================================================
+2026-02-17 11:55:04,613 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 11:55:04,613 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:01:11,119 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:01:11,121 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:01:11,121 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:01:11,121 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:01:11,123 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:01:11,128 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:01:11,131 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:01:11,133 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:01:11,134 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:01:11,134 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:01:11,400 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:01:11,400 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:01:11,405 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:01:11,405 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:01:11,405 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:09:54,989 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:09:54,989 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:09:54,989 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:09:54,989 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:09:54,991 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:09:54,996 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:09:54,999 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:09:55,002 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:09:55,002 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:09:55,003 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:09:55,286 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:09:55,287 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:09:55,293 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:09:55,294 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:09:55,295 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:12:05,683 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:12:05,683 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:12:05,683 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:12:05,683 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:12:05,685 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:12:05,690 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:12:05,693 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:12:05,695 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:12:05,696 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:12:05,697 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:12:05,943 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:12:05,943 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:12:05,947 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:12:05,947 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:12:05,947 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:13:48,605 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:13:48,606 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:13:48,606 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:13:48,606 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:13:48,607 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:13:48,613 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:13:48,617 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:13:48,619 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:13:48,620 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:13:48,620 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:13:48,894 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:13:48,894 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:13:48,900 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:13:48,901 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:13:48,901 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:15:19,024 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:15:19,024 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:15:19,024 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:15:19,024 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:15:19,026 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:15:19,031 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:15:19,034 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:15:19,036 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:15:19,037 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:15:19,037 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:15:19,271 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:15:19,271 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:15:19,288 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:15:19,288 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:15:19,289 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:16:17,919 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:16:17,919 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:16:17,919 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:16:17,920 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:16:17,921 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:16:17,927 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:16:17,929 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:16:17,932 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:16:17,933 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:16:17,933 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:16:18,167 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:16:18,167 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:16:18,170 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:16:18,170 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:16:18,170 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:18:31,183 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:18:31,184 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:18:31,184 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:18:31,184 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:18:31,185 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:18:31,191 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:18:31,195 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:18:31,198 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:18:31,199 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:18:31,199 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:18:31,437 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:18:31,437 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:18:31,441 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:18:31,441 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:18:31,442 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:28:10,374 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:28:10,374 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:28:10,374 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:28:10,374 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:28:10,376 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:28:10,381 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:28:10,385 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:28:10,388 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:28:10,389 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:28:10,389 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:28:10,634 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:28:10,634 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:28:10,637 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:28:10,638 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:28:10,638 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:29:45,156 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:29:45,156 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:29:45,156 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:29:45,156 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:29:45,158 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:29:45,163 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:29:45,166 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:29:45,169 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:29:45,170 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:29:45,180 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:29:45,435 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:29:45,435 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:29:45,438 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:29:45,438 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:29:45,438 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:30:57,505 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:30:57,505 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:30:57,505 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:30:57,505 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:30:57,507 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:30:57,512 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:30:57,515 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:30:57,517 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:30:57,518 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:30:57,519 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:30:57,759 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:30:57,760 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:30:57,764 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:30:57,764 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:30:57,764 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:35:14,217 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:35:14,217 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:35:14,217 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:35:14,217 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:35:14,220 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:35:14,224 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:35:14,227 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:35:14,229 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:35:14,230 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:35:14,231 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:35:14,474 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:35:14,474 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:35:14,477 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:35:14,477 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:35:14,477 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:36:09,852 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:36:09,853 - data_pipeline - INFO - STARTING DATA PIPELINE
+2026-02-17 12:36:09,853 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:36:09,853 - data_pipeline - INFO - Loading data files...
+2026-02-17 12:36:09,855 - data_pipeline - INFO - ✅ Loaded users: 100 rows
+2026-02-17 12:36:09,861 - data_pipeline - INFO - ✅ Loaded activities: 5000 rows
+2026-02-17 12:36:09,865 - data_pipeline - INFO - ✅ Loaded sensitive_access: 2000 rows
+2026-02-17 12:36:09,869 - data_pipeline - INFO - ✅ Loaded login_attempts: 1500 rows
+2026-02-17 12:36:09,870 - data_pipeline - INFO - ✅ Loaded threat_labels: 100 rows
+2026-02-17 12:36:09,872 - data_pipeline - INFO - Extracting features...
+2026-02-17 12:36:10,128 - data_pipeline - INFO - ✅ Extracted 100 user features
+2026-02-17 12:36:10,128 - data_pipeline - INFO - Preprocessing features...
+2026-02-17 12:36:10,132 - data_pipeline - INFO - ======================================================================
+2026-02-17 12:36:10,132 - data_pipeline - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 12:36:10,133 - data_pipeline - INFO - ======================================================================

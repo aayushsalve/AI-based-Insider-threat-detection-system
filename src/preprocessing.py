@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder, StandardScaler
 
+
 def load_and_preprocess():
     df = pd.read_csv("data/simulate_activity.csv")
 
@@ -8,7 +9,8 @@ def load_and_preprocess():
     df.fillna(0, inplace=True)
 
     # Encode categorical columns
-    cat_cols = ['user_id', 'activity_type', 'file_access_type', 'location', 'device_id']
+    cat_cols = ['user_id', 'activity_type', 'file_access_type',
+                'location', 'device_id']
     encoder = LabelEncoder()
 
     for col in cat_cols:

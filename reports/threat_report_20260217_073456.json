@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-02-17T07:34:56.272934",
+  "summary": {
+    "total_users": 100,
+    "critical": 2,
+    "high": 7,
+    "medium": 57,
+    "low": 34,
+    "avg_risk_score": 4.5386736948424975,
+    "max_risk_score": 8.675336153020643,
+    "min_risk_score": 2.7992971824169346,
+    "std_risk_score": 1.149857562127188
+  },
+  "critical_threats": [
+    {
+      "user_id": "USER_0065",
+      "risk_score": 8.675336153020643,
+      "anomaly_score": 0.9315068493150686,
+      "failed_logins": 8,
+      "sensitive_files_accessed": 29,
+      "confidence": 13.698630136986289
+    },
+    {
+      "user_id": "USER_0043",
+      "risk_score": 8.175115207373272,
+      "anomaly_score": 1.0,
+      "failed_logins": 8,
+      "sensitive_files_accessed": 21,
+      "confidence": 0.0
+    }
+  ],
+  "high_risk_users": [
+    {
+      "user_id": "USER_0037",
+      "risk_score": 7.857521621109779,
+      "anomaly_score": 0.7397260273972603,
+      "failed_logins": 9,
+      "sensitive_files_accessed": 27,
+      "confidence": 52.05479452054793
+    },
+    {
+      "user_id": "USER_0034",
+      "risk_score": 7.854554636702229,
+      "anomaly_score": 0.9452054794520548,
+      "failed_logins": 10,
+      "sensitive_files_accessed": 17,
+      "confidence": 10.95890410958904
+    },
+    {
+      "user_id": "USER_0014",
+      "risk_score": 7.75721229720346,
+      "anomaly_score": 0.8356164383561644,
+      "failed_logins": 9,
+      "sensitive_files_accessed": 22,
+      "confidence": 32.87671232876712
+    },
+    {
+      "user_id": "USER_0088",
+      "risk_score": 7.172968878227384,
+      "anomaly_score": 0.8082191780821918,
+      "failed_logins": 5,
+      "sensitive_files_accessed": 23,
+      "confidence": 38.35616438356164
+    },
+    {
+      "user_id": "USER_0067",
+      "risk_score": 6.364181554194811,
+      "anomaly_score": 0.2465753424657534,
+      "failed_logins": 11,
+      "sensitive_files_accessed": 29,
+      "confidence": 49.31506849315068
+    },
+    {
+      "user_id": "USER_0089",
+      "risk_score": 6.272836310838962,
+      "anomaly_score": 0.8493150684931507,
+      "failed_logins": 5,
+      "sensitive_files_accessed": 12,
+      "confidence": 30.136986301369852
+    },
+    {
+      "user_id": "USER_0032",
+      "risk_score": 6.117164320434315,
+      "anomaly_score": 0.821917808219178,
+      "failed_logins": 4,
+      "sensitive_files_accessed": 13,
+      "confidence": 35.616438356164394
+    }
+  ]
+}

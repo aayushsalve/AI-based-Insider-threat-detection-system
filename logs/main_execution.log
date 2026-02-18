@@ -1,0 +1,21 @@
+2026-02-17 10:54:57,820 - main_execution - INFO - 
+======================================================================
+2026-02-17 10:54:57,820 - main_execution - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 10:54:57,821 - main_execution - INFO - ======================================================================
+2026-02-17 10:54:57,821 - main_execution - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 10:54:58,129 - main_execution - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 10:54:58,129 - main_execution - INFO - Label check: positives=10, negatives=90
+2026-02-17 10:54:58,131 - main_execution - INFO -    Train set: 80 samples
+2026-02-17 10:54:58,131 - main_execution - INFO -    Test set: 20 samples
+2026-02-17 10:54:58,131 - main_execution - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 10:55:00,066 - main_execution - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 10:55:00,087 - main_execution - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 10:55:00,907 - main_execution - INFO - 
+======================================================================
+2026-02-17 10:55:00,908 - main_execution - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 10:55:00,908 - main_execution - INFO - ======================================================================

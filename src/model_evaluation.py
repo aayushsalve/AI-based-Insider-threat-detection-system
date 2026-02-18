@@ -1,5 +1,4 @@
-from sklearn.metrics import confusion_matrix, classification_report, roc_auc_score, roc_curve
-from sklearn.ensemble import IsolationForest, RandomForestClassifier
+from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.model_selection import train_test_split
 from sklearn.datasets import load_iris
 import joblib
@@ -33,7 +32,10 @@ iso_scores_norm = 1 / (1 + np.exp(iso_scores))
 print("\nConfusion Matrix:")
 print(confusion_matrix(y_test, iso_pred_binary))
 print("\nClassification Report:")
-print(classification_report(y_test, iso_pred_binary, target_names=['Normal', 'Anomaly']))
+print(classification_report(
+    y_test, iso_pred_binary,
+    target_names=['Normal', 'Anomaly']
+))
 
 # Method 2: RandomForest predictions
 print("\n[2] RandomForest (Validation Layer)")
@@ -43,7 +45,10 @@ rf_proba = random_forest.predict_proba(X_test)[:, 1]
 print("\nConfusion Matrix:")
 print(confusion_matrix(y_test, rf_pred))
 print("\nClassification Report:")
-print(classification_report(y_test, rf_pred, target_names=['Normal', 'Anomaly']))
+print(classification_report(
+    y_test, rf_pred,
+    target_names=['Normal', 'Anomaly']
+))
 
 # Method 3: Hybrid Approach (Weighted Voting)
 print("\n[3] HYBRID MODEL (70% IsolationForest + 30% RandomForest)")
@@ -53,7 +58,10 @@ hybrid_pred = [1 if score > 0.5 else 0 for score in hybrid_scores]
 print("\nConfusion Matrix:")
 print(confusion_matrix(y_test, hybrid_pred))
 print("\nClassification Report:")
-print(classification_report(y_test, hybrid_pred, target_names=['Normal', 'Anomaly']))
+print(classification_report(
+    y_test, hybrid_pred,
+    target_names=['Normal', 'Anomaly']
+))
 
 # Performance Metrics
 print("\n" + "="*60)

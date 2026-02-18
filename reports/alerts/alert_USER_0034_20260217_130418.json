@@ -1,0 +1,24 @@
+{
+  "timestamp": "2026-02-17T13:04:18.185827",
+  "alert_type": "CRITICAL_THREAT",
+  "severity": "CRITICAL",
+  "user_id": "USER_0034",
+  "risk_score": 8.673051259004215,
+  "risk_level": "Critical",
+  "confidence": 13.65162253310206,
+  "threat_indicators": {
+    "sensitive_files_accessed": 17,
+    "after_hours_access": 6,
+    "failed_login_rate": 0.4,
+    "unique_locations": 3,
+    "downloads": 11,
+    "failed_activities": 11
+  },
+  "recommended_actions": [
+    "Immediately review user account activity",
+    "Check for unauthorized file access",
+    "Monitor network traffic from user IPs",
+    "Consider temporary access suspension",
+    "Escalate to Security Operations Center"
+  ]
+}

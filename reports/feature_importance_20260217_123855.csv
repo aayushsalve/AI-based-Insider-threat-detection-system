@@ -1,0 +1,9 @@
+Feature,Importance
+sensitive_after_hours_rate,0.156
+failed_login_rate,0.124
+unique_locations,0.098
+download_rate,0.087
+activity_frequency,0.076
+after_hours_access,0.065
+failed_activities,0.052
+sensitive_files_accessed,0.048

@@ -1,0 +1,391 @@
+2026-02-17 07:27:03,826 - __main__ - INFO - ======================================================================
+2026-02-17 07:27:03,826 - __main__ - INFO - ✅ DATA PIPELINE COMPLETE
+2026-02-17 07:27:03,826 - __main__ - INFO - ======================================================================
+2026-02-17 07:29:16,988 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:29:16,988 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 07:29:16,989 - __main__ - INFO - ======================================================================
+2026-02-17 07:29:16,989 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 07:29:40,755 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:29:40,756 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 07:29:40,756 - __main__ - INFO - ======================================================================
+2026-02-17 07:29:40,756 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 07:29:48,397 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:29:48,397 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 07:29:48,397 - __main__ - INFO - ======================================================================
+2026-02-17 07:29:48,398 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 07:30:49,738 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:30:49,738 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 07:30:49,738 - __main__ - INFO - ======================================================================
+2026-02-17 07:30:49,738 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 07:31:37,186 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:31:37,186 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 07:31:37,186 - __main__ - INFO - ======================================================================
+2026-02-17 07:31:37,186 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 07:33:19,348 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:33:19,348 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 07:33:19,348 - __main__ - INFO - ======================================================================
+2026-02-17 07:33:19,348 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 07:34:55,666 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:34:55,666 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 07:34:55,666 - __main__ - INFO - ======================================================================
+2026-02-17 07:34:55,666 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 07:34:55,910 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 07:34:55,914 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 07:34:55,914 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 07:34:55,916 - __main__ - INFO - 
+[STEP 3/5] Training Hybrid Models...
+2026-02-17 07:34:56,240 - __main__ - INFO - 
+[STEP 4/5] Computing Risk Scores...
+2026-02-17 07:34:56,272 - __main__ - INFO - 
+[STEP 5/5] Generating Reports...
+2026-02-17 07:34:56,299 - __main__ - INFO - 
+======================================================================
+2026-02-17 07:34:56,299 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 07:34:56,299 - __main__ - INFO - ======================================================================
+2026-02-17 07:34:56,299 - __main__ - INFO - 📁 Reports saved to: D:\Major Project\Insider Threat Detection\reports
+2026-02-17 07:34:56,300 - __main__ - INFO - 📁 Logs saved to: D:\Major Project\Insider Threat Detection\logs
+2026-02-17 09:18:35,620 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:18:35,620 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:18:35,620 - __main__ - INFO - ======================================================================
+2026-02-17 09:18:35,620 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:18:35,857 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:18:35,858 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:18:35,858 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:18:35,859 - __main__ - INFO - 
+[STEP 3/5] Training Hybrid Models...
+2026-02-17 09:18:36,128 - __main__ - INFO - 
+[STEP 4/5] Computing Risk Scores...
+2026-02-17 09:18:36,146 - __main__ - INFO - 
+[STEP 5/5] Generating Reports...
+2026-02-17 09:18:36,172 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:18:36,172 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 09:18:36,172 - __main__ - INFO - ======================================================================
+2026-02-17 09:18:36,172 - __main__ - INFO - 📁 Reports saved to: D:\Major Project\Insider Threat Detection\reports
+2026-02-17 09:18:36,172 - __main__ - INFO - 📁 Logs saved to: D:\Major Project\Insider Threat Detection\logs
+2026-02-17 09:32:08,488 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:32:08,488 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:32:08,488 - __main__ - INFO - ======================================================================
+2026-02-17 09:32:08,488 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:32:08,717 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:32:08,718 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:32:08,718 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:32:08,718 - __main__ - INFO - 
+[STEP 3/5] Training Hybrid Models...
+2026-02-17 09:36:03,700 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:36:03,701 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:36:03,701 - __main__ - INFO - ======================================================================
+2026-02-17 09:36:03,701 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:36:03,921 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:36:03,932 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:36:03,932 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:36:03,932 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 09:36:04,385 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 09:44:02,447 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:44:02,447 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:44:02,447 - __main__ - INFO - ======================================================================
+2026-02-17 09:44:02,447 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:44:02,673 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:44:02,673 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:44:02,674 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:44:02,674 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 09:45:33,221 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:45:33,221 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:45:33,221 - __main__ - INFO - ======================================================================
+2026-02-17 09:45:33,221 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:45:33,449 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:45:33,450 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:45:33,450 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:45:33,450 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 09:47:13,670 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:47:13,671 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:47:13,671 - __main__ - INFO - ======================================================================
+2026-02-17 09:47:13,671 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:47:13,901 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:47:13,902 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:47:13,902 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:47:13,902 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 09:48:22,324 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:48:22,324 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:48:22,326 - __main__ - INFO - ======================================================================
+2026-02-17 09:48:22,326 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:48:22,571 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:48:22,572 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:48:22,572 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:48:22,572 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 09:48:23,004 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 09:48:23,041 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 09:48:30,913 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:48:30,913 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 09:48:30,913 - __main__ - INFO - ======================================================================
+2026-02-17 09:53:48,042 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:53:48,042 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:53:48,042 - __main__ - INFO - ======================================================================
+2026-02-17 09:53:48,042 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:53:48,266 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:53:48,267 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:53:48,267 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:53:48,267 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 09:53:48,710 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 09:53:48,748 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 09:53:49,654 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:53:49,654 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 09:53:49,654 - __main__ - INFO - ======================================================================
+2026-02-17 09:58:14,196 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:58:14,197 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 09:58:14,197 - __main__ - INFO - ======================================================================
+2026-02-17 09:58:14,197 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 09:58:14,418 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 09:58:14,421 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 09:58:14,421 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 09:58:14,422 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 09:58:15,433 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 09:58:15,521 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 09:58:16,402 - __main__ - INFO - 
+======================================================================
+2026-02-17 09:58:16,403 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 09:58:16,403 - __main__ - INFO - ======================================================================
+2026-02-17 10:39:42,906 - __main__ - INFO - Label audit: positives=10, negatives=90
+2026-02-17 10:39:53,522 - __main__ - INFO - Starting data ingestion...
+2026-02-17 10:39:53,526 - __main__ - WARNING - Missing raw file: D:\Major Project\Insider Threat Detection\data\raw\users.csv
+2026-02-17 10:39:53,531 - __main__ - WARNING - Missing raw file: D:\Major Project\Insider Threat Detection\data\raw\activities.csv
+2026-02-17 10:39:53,538 - __main__ - WARNING - Missing raw file: D:\Major Project\Insider Threat Detection\data\raw\sensitive_access.csv
+2026-02-17 10:39:53,539 - __main__ - WARNING - Missing raw file: D:\Major Project\Insider Threat Detection\data\raw\login_attempts.csv
+2026-02-17 10:39:53,539 - __main__ - WARNING - Missing raw file: D:\Major Project\Insider Threat Detection\data\raw\threat_labels.csv
+2026-02-17 10:40:14,464 - __main__ - INFO - 
+======================================================================
+2026-02-17 10:40:14,464 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 10:40:14,464 - __main__ - INFO - ======================================================================
+2026-02-17 10:40:14,464 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 10:40:14,745 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 10:40:14,745 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 10:40:14,746 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 10:40:14,746 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 10:40:14,746 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 10:40:17,778 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 10:40:17,799 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 10:40:18,667 - __main__ - INFO - 
+======================================================================
+2026-02-17 10:40:18,668 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 10:40:18,668 - __main__ - INFO - ======================================================================
+2026-02-17 10:54:57,820 - __main__ - INFO - Scheduled retrain started
+2026-02-17 10:55:00,908 - __main__ - INFO - Scheduled retrain complete
+2026-02-17 11:09:58,672 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:09:58,673 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 11:09:58,673 - __main__ - INFO - ======================================================================
+2026-02-17 11:09:58,673 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 11:09:58,933 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 11:09:58,933 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 11:09:58,934 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 11:09:58,934 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 11:09:58,934 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 11:10:01,142 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 11:10:01,161 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 11:10:01,991 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:10:01,991 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 11:10:01,992 - __main__ - INFO - ======================================================================
+2026-02-17 11:18:25,966 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:18:25,966 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 11:18:25,966 - __main__ - INFO - ======================================================================
+2026-02-17 11:18:25,966 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 11:18:26,231 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 11:18:26,232 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 11:18:26,233 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 11:18:26,233 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 11:18:26,233 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 11:18:28,412 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 11:18:28,431 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 11:18:29,264 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:18:29,264 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 11:18:29,264 - __main__ - INFO - ======================================================================
+2026-02-17 11:27:44,080 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:27:44,081 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 11:27:44,081 - __main__ - INFO - ======================================================================
+2026-02-17 11:27:44,081 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 11:27:44,354 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 11:27:44,354 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 11:27:44,355 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 11:27:44,355 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 11:27:44,356 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 11:27:46,831 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 11:27:46,851 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 11:27:47,656 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:27:47,656 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 11:27:47,656 - __main__ - INFO - ======================================================================
+2026-02-17 11:37:51,383 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:37:51,383 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 11:37:51,383 - __main__ - INFO - ======================================================================
+2026-02-17 11:37:51,383 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 11:37:51,662 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 11:37:51,663 - __main__ - INFO - Label check: positives=10, negatives=89
+2026-02-17 11:54:14,849 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:54:14,849 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 11:54:14,849 - __main__ - INFO - ======================================================================
+2026-02-17 11:54:14,850 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 11:54:15,118 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 11:54:15,121 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 11:54:15,122 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 11:54:15,122 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 11:54:15,122 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 11:54:17,256 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 11:54:17,275 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 11:54:18,100 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:54:18,100 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 11:54:18,100 - __main__ - INFO - ======================================================================
+2026-02-17 11:55:04,339 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:55:04,340 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 11:55:04,340 - __main__ - INFO - ======================================================================
+2026-02-17 11:55:04,340 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 11:55:04,613 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 11:55:04,614 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 11:55:04,614 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 11:55:04,615 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 11:55:04,615 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 11:55:06,782 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 11:55:06,802 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 11:55:07,655 - __main__ - INFO - 
+======================================================================
+2026-02-17 11:55:07,656 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 11:55:07,656 - __main__ - INFO - ======================================================================
+2026-02-17 12:01:11,119 - __main__ - INFO - 
+======================================================================
+2026-02-17 12:01:11,119 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 12:01:11,119 - __main__ - INFO - ======================================================================
+2026-02-17 12:01:11,119 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 12:01:11,405 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 12:01:11,405 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 12:01:11,407 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 12:01:11,407 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 12:01:11,407 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 12:01:13,533 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 12:01:13,552 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 12:01:14,401 - __main__ - INFO - 
+======================================================================
+2026-02-17 12:01:14,401 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 12:01:14,401 - __main__ - INFO - ======================================================================
+2026-02-17 12:29:45,155 - __main__ - INFO - 
+======================================================================
+2026-02-17 12:29:45,156 - __main__ - INFO - 🚀 INSIDER THREAT DETECTION SYSTEM - PIPELINE START
+2026-02-17 12:29:45,156 - __main__ - INFO - ======================================================================
+2026-02-17 12:29:45,156 - __main__ - INFO - 
+[STEP 1/5] Loading and Processing Data...
+2026-02-17 12:29:45,438 - __main__ - INFO - 
+[STEP 2/5] Splitting Data...
+2026-02-17 12:29:45,438 - __main__ - INFO - Label check: positives=10, negatives=90
+2026-02-17 12:29:45,439 - __main__ - INFO -    Train set: 80 samples
+2026-02-17 12:29:45,439 - __main__ - INFO -    Test set: 20 samples
+2026-02-17 12:29:45,439 - __main__ - INFO - 
+[STEP 3/5] Training Models...
+2026-02-17 12:29:47,608 - __main__ - INFO - 
+[STEP 4/5] Scoring Risk...
+2026-02-17 12:29:47,628 - __main__ - INFO - 
+[STEP 5/5] Explainability + Reporting...
+2026-02-17 12:29:48,461 - __main__ - INFO - 
+======================================================================
+2026-02-17 12:29:48,462 - __main__ - INFO - ✅ PIPELINE EXECUTION COMPLETE
+2026-02-17 12:29:48,462 - __main__ - INFO - ======================================================================

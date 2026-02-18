@@ -1,0 +1,1574 @@
+2026-02-17 07:34:55,916 - model_trainer - INFO - ======================================================================
+2026-02-17 07:34:55,916 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 07:34:55,917 - model_trainer - INFO - ======================================================================
+2026-02-17 07:34:55,917 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 07:34:56,047 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 07:34:56,047 - model_trainer - INFO - Training RandomForest...
+2026-02-17 07:34:56,132 - model_trainer - INFO - ✅ RandomForest trained
+2026-02-17 07:34:56,133 - model_trainer - INFO - Evaluating models...
+2026-02-17 07:34:56,148 - model_trainer - INFO - 
+============================================================
+2026-02-17 07:34:56,149 - model_trainer - INFO - CLASSIFICATION REPORT
+2026-02-17 07:34:56,151 - model_trainer - INFO - ============================================================
+2026-02-17 07:34:56,191 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.90        20
+   macro avg       0.45      0.50      0.47        20
+weighted avg       0.81      0.90      0.85        20
+
+2026-02-17 07:34:56,191 - model_trainer - INFO - 
+============================================================
+2026-02-17 07:34:56,191 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 07:34:56,191 - model_trainer - INFO - ============================================================
+2026-02-17 07:34:56,192 - model_trainer - INFO - 
+[[18  0]
+ [ 2  0]]
+2026-02-17 07:34:56,192 - model_trainer - INFO - Saving models...
+2026-02-17 07:34:56,239 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 07:34:56,240 - model_trainer - INFO - ======================================================================
+2026-02-17 07:34:56,240 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 07:34:56,240 - model_trainer - INFO - ======================================================================
+2026-02-17 09:18:35,859 - model_trainer - INFO - ======================================================================
+2026-02-17 09:18:35,859 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:18:35,859 - model_trainer - INFO - ======================================================================
+2026-02-17 09:18:35,859 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:18:35,950 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:18:35,950 - model_trainer - INFO - Training RandomForest...
+2026-02-17 09:18:36,047 - model_trainer - INFO - ✅ RandomForest trained
+2026-02-17 09:18:36,048 - model_trainer - INFO - Evaluating models...
+2026-02-17 09:18:36,064 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:18:36,065 - model_trainer - INFO - CLASSIFICATION REPORT
+2026-02-17 09:18:36,065 - model_trainer - INFO - ============================================================
+2026-02-17 09:18:36,085 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.90        20
+   macro avg       0.45      0.50      0.47        20
+weighted avg       0.81      0.90      0.85        20
+
+2026-02-17 09:18:36,085 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:18:36,085 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 09:18:36,085 - model_trainer - INFO - ============================================================
+2026-02-17 09:18:36,086 - model_trainer - INFO - 
+[[18  0]
+ [ 2  0]]
+2026-02-17 09:18:36,086 - model_trainer - INFO - Saving models...
+2026-02-17 09:18:36,126 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 09:18:36,126 - model_trainer - INFO - ======================================================================
+2026-02-17 09:18:36,126 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 09:18:36,128 - model_trainer - INFO - ======================================================================
+2026-02-17 09:32:08,718 - model_trainer - INFO - ======================================================================
+2026-02-17 09:32:08,719 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:32:08,719 - model_trainer - INFO - ======================================================================
+2026-02-17 09:32:08,719 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:32:08,816 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:32:08,817 - model_trainer - INFO - Training RandomForest...
+2026-02-17 09:32:08,911 - model_trainer - INFO - ✅ RandomForest trained
+2026-02-17 09:32:08,911 - model_trainer - INFO - Evaluating models...
+2026-02-17 09:32:08,926 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:32:08,926 - model_trainer - INFO - CLASSIFICATION REPORT
+2026-02-17 09:32:08,926 - model_trainer - INFO - ============================================================
+2026-02-17 09:32:08,934 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.90        20
+   macro avg       0.45      0.50      0.47        20
+weighted avg       0.81      0.90      0.85        20
+
+2026-02-17 09:32:08,934 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:32:08,934 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 09:32:08,934 - model_trainer - INFO - ============================================================
+2026-02-17 09:32:08,935 - model_trainer - INFO - 
+[[18  0]
+ [ 2  0]]
+2026-02-17 09:32:08,935 - model_trainer - INFO - Saving models...
+2026-02-17 09:32:08,984 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 09:32:08,985 - model_trainer - INFO - ======================================================================
+2026-02-17 09:32:08,985 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 09:32:08,985 - model_trainer - INFO - ======================================================================
+2026-02-17 09:36:03,932 - model_trainer - INFO - ======================================================================
+2026-02-17 09:36:03,933 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:36:03,933 - model_trainer - INFO - ======================================================================
+2026-02-17 09:36:03,933 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:36:04,094 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:36:04,095 - model_trainer - INFO - Training RandomForest...
+2026-02-17 09:36:04,280 - model_trainer - INFO - ✅ RandomForest trained
+2026-02-17 09:36:04,281 - model_trainer - INFO - Evaluating models...
+2026-02-17 09:36:04,305 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:36:04,305 - model_trainer - INFO - CLASSIFICATION REPORT
+2026-02-17 09:36:04,307 - model_trainer - INFO - ============================================================
+2026-02-17 09:36:04,312 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.90        20
+   macro avg       0.45      0.50      0.47        20
+weighted avg       0.81      0.90      0.85        20
+
+2026-02-17 09:36:04,312 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:36:04,312 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 09:36:04,312 - model_trainer - INFO - ============================================================
+2026-02-17 09:36:04,314 - model_trainer - INFO - 
+[[18  0]
+ [ 2  0]]
+2026-02-17 09:36:04,314 - model_trainer - INFO - Saving models...
+2026-02-17 09:36:04,385 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 09:36:04,385 - model_trainer - INFO - ======================================================================
+2026-02-17 09:36:04,385 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 09:36:04,385 - model_trainer - INFO - ======================================================================
+2026-02-17 09:44:02,674 - model_trainer - INFO - ======================================================================
+2026-02-17 09:44:02,674 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:44:02,674 - model_trainer - INFO - ======================================================================
+2026-02-17 09:44:02,674 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:44:02,837 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:44:02,837 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 09:44:02,856 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 09:45:33,450 - model_trainer - INFO - ======================================================================
+2026-02-17 09:45:33,450 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:45:33,451 - model_trainer - INFO - ======================================================================
+2026-02-17 09:45:33,451 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:45:33,631 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:45:33,631 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 09:45:33,631 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 09:47:13,902 - model_trainer - INFO - ======================================================================
+2026-02-17 09:47:13,902 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:47:13,902 - model_trainer - INFO - ======================================================================
+2026-02-17 09:47:13,902 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:47:14,076 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:47:14,076 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 09:47:14,077 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 09:48:22,572 - model_trainer - INFO - ======================================================================
+2026-02-17 09:48:22,572 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:48:22,572 - model_trainer - INFO - ======================================================================
+2026-02-17 09:48:22,572 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:48:22,748 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:48:22,748 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 09:48:22,749 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 09:48:22,749 - model_trainer - INFO - Training RandomForest...
+2026-02-17 09:48:22,900 - model_trainer - INFO - ✅ RandomForest trained
+2026-02-17 09:48:22,902 - model_trainer - INFO - Evaluating models...
+2026-02-17 09:48:22,926 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:48:22,926 - model_trainer - INFO - CLASSIFICATION REPORT
+2026-02-17 09:48:22,926 - model_trainer - INFO - ============================================================
+2026-02-17 09:48:22,932 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.90        20
+   macro avg       0.45      0.50      0.47        20
+weighted avg       0.81      0.90      0.85        20
+
+2026-02-17 09:48:22,932 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:48:22,932 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 09:48:22,932 - model_trainer - INFO - ============================================================
+2026-02-17 09:48:22,933 - model_trainer - INFO - 
+[[18  0]
+ [ 2  0]]
+2026-02-17 09:48:22,933 - model_trainer - INFO - Saving models...
+2026-02-17 09:48:23,004 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 09:48:23,004 - model_trainer - INFO - ======================================================================
+2026-02-17 09:48:23,004 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 09:48:23,004 - model_trainer - INFO - ======================================================================
+2026-02-17 09:53:48,268 - model_trainer - INFO - ======================================================================
+2026-02-17 09:53:48,268 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:53:48,268 - model_trainer - INFO - ======================================================================
+2026-02-17 09:53:48,268 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 09:53:48,269 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 09:53:48,269 - model_trainer - INFO - Applying random oversampling for class imbalance...
+2026-02-17 09:53:48,269 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:53:48,432 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:53:48,432 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 09:53:48,433 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 09:53:48,433 - model_trainer - INFO - Training RandomForest...
+2026-02-17 09:53:48,603 - model_trainer - INFO - ✅ RandomForest trained
+2026-02-17 09:53:48,603 - model_trainer - INFO - Evaluating models...
+2026-02-17 09:53:48,630 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:53:48,630 - model_trainer - INFO - CLASSIFICATION REPORT (auto-threshold=0.125)
+2026-02-17 09:53:48,630 - model_trainer - INFO - ============================================================
+2026-02-17 09:53:48,634 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       1.00      0.39      0.56        18
+           1       0.15      1.00      0.27         2
+
+    accuracy                           0.45        20
+   macro avg       0.58      0.69      0.41        20
+weighted avg       0.92      0.45      0.53        20
+
+2026-02-17 09:53:48,634 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:53:48,634 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 09:53:48,634 - model_trainer - INFO - ============================================================
+2026-02-17 09:53:48,635 - model_trainer - INFO - 
+[[ 7 11]
+ [ 0  2]]
+2026-02-17 09:53:48,635 - model_trainer - INFO - Saving models...
+2026-02-17 09:53:48,710 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 09:53:48,710 - model_trainer - INFO - ======================================================================
+2026-02-17 09:53:48,710 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 09:53:48,710 - model_trainer - INFO - ======================================================================
+2026-02-17 09:58:14,422 - model_trainer - INFO - ======================================================================
+2026-02-17 09:58:14,422 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 09:58:14,422 - model_trainer - INFO - ======================================================================
+2026-02-17 09:58:14,422 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 09:58:14,422 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 09:58:14,423 - model_trainer - INFO - Applying random oversampling for class imbalance...
+2026-02-17 09:58:14,423 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 09:58:14,592 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 09:58:14,592 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 09:58:14,592 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 09:58:14,592 - model_trainer - INFO - Training RandomForest...
+2026-02-17 09:58:14,753 - model_trainer - INFO - ✅ RandomForest trained
+2026-02-17 09:58:14,754 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 09:58:15,296 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 09:58:15,296 - model_trainer - INFO - Evaluating models...
+2026-02-17 09:58:15,361 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:58:15,361 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.000, min=0.300, used=0.300)
+2026-02-17 09:58:15,361 - model_trainer - INFO - ============================================================
+2026-02-17 09:58:15,365 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.90      1.00      0.95        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.90        20
+   macro avg       0.45      0.50      0.47        20
+weighted avg       0.81      0.90      0.85        20
+
+2026-02-17 09:58:15,365 - model_trainer - INFO - Precision@K (K=10): 0.000
+2026-02-17 09:58:15,365 - model_trainer - INFO - 
+============================================================
+2026-02-17 09:58:15,365 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 09:58:15,365 - model_trainer - INFO - ============================================================
+2026-02-17 09:58:15,366 - model_trainer - INFO - 
+[[18  0]
+ [ 2  0]]
+2026-02-17 09:58:15,366 - model_trainer - INFO - Saving models...
+2026-02-17 09:58:15,432 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 09:58:15,432 - model_trainer - INFO - ======================================================================
+2026-02-17 09:58:15,432 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 09:58:15,432 - model_trainer - INFO - ======================================================================
+2026-02-17 10:40:14,746 - model_trainer - INFO - ======================================================================
+2026-02-17 10:40:14,747 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 10:40:14,747 - model_trainer - INFO - ======================================================================
+2026-02-17 10:40:14,747 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 10:40:14,747 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 10:40:14,747 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 10:40:17,014 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 10:40:17,181 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 10:40:17,181 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 10:40:17,182 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 10:40:17,336 - model_trainer - INFO - Training XGBoost...
+2026-02-17 10:40:17,569 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 10:40:17,570 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 10:40:17,694 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 10:40:17,694 - model_trainer - INFO - Evaluating models...
+2026-02-17 10:40:17,697 - model_trainer - INFO - 
+============================================================
+2026-02-17 10:40:17,698 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.732, min=0.150, used=0.732)
+2026-02-17 10:40:17,698 - model_trainer - INFO - ============================================================
+2026-02-17 10:40:17,701 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 10:40:17,701 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 10:40:17,702 - model_trainer - INFO - 
+============================================================
+2026-02-17 10:40:17,702 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 10:40:17,702 - model_trainer - INFO - ============================================================
+2026-02-17 10:40:17,703 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 10:40:17,703 - model_trainer - INFO - Saving models...
+2026-02-17 10:40:17,778 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 10:40:17,778 - model_trainer - INFO - ======================================================================
+2026-02-17 10:40:17,778 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 10:40:17,778 - model_trainer - INFO - ======================================================================
+2026-02-17 10:54:58,131 - model_trainer - INFO - ======================================================================
+2026-02-17 10:54:58,132 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 10:54:58,132 - model_trainer - INFO - ======================================================================
+2026-02-17 10:54:58,132 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 10:54:58,132 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 10:54:58,132 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 10:54:59,504 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 10:54:59,674 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 10:54:59,674 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 10:54:59,675 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 10:54:59,699 - model_trainer - INFO - Training XGBoost...
+2026-02-17 10:54:59,856 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 10:54:59,856 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 10:54:59,989 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 10:54:59,989 - model_trainer - INFO - Evaluating models...
+2026-02-17 10:54:59,993 - model_trainer - INFO - 
+============================================================
+2026-02-17 10:54:59,993 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.732, min=0.150, used=0.732)
+2026-02-17 10:54:59,993 - model_trainer - INFO - ============================================================
+2026-02-17 10:54:59,998 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 10:54:59,998 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 10:54:59,999 - model_trainer - INFO - 
+============================================================
+2026-02-17 10:54:59,999 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 10:54:59,999 - model_trainer - INFO - ============================================================
+2026-02-17 10:55:00,000 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 10:55:00,000 - model_trainer - INFO - Saving models...
+2026-02-17 10:55:00,065 - model_trainer - INFO - ✅ Models saved to d:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 10:55:00,065 - model_trainer - INFO - ======================================================================
+2026-02-17 10:55:00,066 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 10:55:00,066 - model_trainer - INFO - ======================================================================
+2026-02-17 11:09:58,936 - model_trainer - INFO - ======================================================================
+2026-02-17 11:09:58,936 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 11:09:58,936 - model_trainer - INFO - ======================================================================
+2026-02-17 11:09:58,936 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 11:09:58,936 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 11:09:58,936 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 11:10:00,361 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 11:10:00,528 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 11:10:00,528 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 11:10:00,529 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 11:10:00,552 - model_trainer - INFO - Training XGBoost...
+2026-02-17 11:10:00,704 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 11:10:00,705 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 11:10:00,826 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 11:10:00,826 - model_trainer - INFO - Evaluating models...
+2026-02-17 11:10:01,085 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_111001.csv
+2026-02-17 11:10:01,085 - model_trainer - INFO - Best F1 threshold: 0.370 (F1=0.667)
+2026-02-17 11:10:01,086 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:10:01,086 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.732, min=0.150, used=0.732)
+2026-02-17 11:10:01,086 - model_trainer - INFO - ============================================================
+2026-02-17 11:10:01,089 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 11:10:01,089 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 11:10:01,090 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:10:01,090 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 11:10:01,090 - model_trainer - INFO - ============================================================
+2026-02-17 11:10:01,091 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 11:10:01,091 - model_trainer - INFO - Saving models...
+2026-02-17 11:10:01,141 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 11:10:01,142 - model_trainer - INFO - ======================================================================
+2026-02-17 11:10:01,142 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 11:10:01,142 - model_trainer - INFO - ======================================================================
+2026-02-17 11:18:26,233 - model_trainer - INFO - ======================================================================
+2026-02-17 11:18:26,233 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 11:18:26,234 - model_trainer - INFO - ======================================================================
+2026-02-17 11:18:26,234 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 11:18:26,236 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 11:18:26,236 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 11:18:27,616 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 11:18:27,778 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 11:18:27,778 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 11:18:27,778 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 11:18:27,798 - model_trainer - INFO - Training XGBoost...
+2026-02-17 11:18:27,967 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 11:18:27,967 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 11:18:28,094 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 11:18:28,094 - model_trainer - INFO - Evaluating models...
+2026-02-17 11:18:28,352 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_111828.csv
+2026-02-17 11:18:28,352 - model_trainer - INFO - Best F1 threshold: 0.370 (F1=0.667)
+2026-02-17 11:18:28,353 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:18:28,353 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.732, min=0.670, used=0.732)
+2026-02-17 11:18:28,353 - model_trainer - INFO - ============================================================
+2026-02-17 11:18:28,358 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 11:18:28,358 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 11:18:28,358 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:18:28,358 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 11:18:28,358 - model_trainer - INFO - ============================================================
+2026-02-17 11:18:28,359 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 11:18:28,359 - model_trainer - INFO - Saving models...
+2026-02-17 11:18:28,411 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 11:18:28,412 - model_trainer - INFO - ======================================================================
+2026-02-17 11:18:28,412 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 11:18:28,412 - model_trainer - INFO - ======================================================================
+2026-02-17 11:27:44,356 - model_trainer - INFO - ======================================================================
+2026-02-17 11:27:44,356 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 11:27:44,356 - model_trainer - INFO - ======================================================================
+2026-02-17 11:27:44,356 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 11:27:44,356 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 11:27:44,357 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 11:27:45,744 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 11:27:46,011 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 11:27:46,011 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 11:27:46,012 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 11:27:46,236 - model_trainer - INFO - Training XGBoost...
+2026-02-17 11:27:46,389 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 11:27:46,390 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 11:27:46,516 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 11:27:46,516 - model_trainer - INFO - Evaluating models...
+2026-02-17 11:27:46,771 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_112746.csv
+2026-02-17 11:27:46,772 - model_trainer - INFO - Best F1 threshold: 0.370 (F1=0.667)
+2026-02-17 11:27:46,772 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:27:46,772 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.732, min=0.670, used=0.732)
+2026-02-17 11:27:46,772 - model_trainer - INFO - ============================================================
+2026-02-17 11:27:46,776 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 11:27:46,776 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 11:27:46,776 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:27:46,776 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 11:27:46,776 - model_trainer - INFO - ============================================================
+2026-02-17 11:27:46,777 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 11:27:46,777 - model_trainer - INFO - Saving models...
+2026-02-17 11:27:46,831 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 11:27:46,831 - model_trainer - INFO - ======================================================================
+2026-02-17 11:27:46,831 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 11:27:46,831 - model_trainer - INFO - ======================================================================
+2026-02-17 11:54:15,122 - model_trainer - INFO - ======================================================================
+2026-02-17 11:54:15,123 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 11:54:15,123 - model_trainer - INFO - ======================================================================
+2026-02-17 11:54:15,123 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 11:54:15,123 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 11:54:15,123 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 11:54:16,500 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 11:54:16,666 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 11:54:16,666 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 11:54:16,667 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 11:54:16,689 - model_trainer - INFO - Training XGBoost...
+2026-02-17 11:54:16,820 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 11:54:16,821 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 11:54:16,932 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 11:54:16,933 - model_trainer - INFO - Evaluating models...
+2026-02-17 11:54:17,201 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_115417.csv
+2026-02-17 11:54:17,201 - model_trainer - INFO - Best F1 threshold: 0.180 (F1=0.400)
+2026-02-17 11:54:17,201 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:54:17,202 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.394, min=0.670, used=0.670)
+2026-02-17 11:54:17,202 - model_trainer - INFO - ============================================================
+2026-02-17 11:54:17,204 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.94      0.92        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.85        20
+   macro avg       0.45      0.47      0.46        20
+weighted avg       0.81      0.85      0.83        20
+
+2026-02-17 11:54:17,205 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 11:54:17,205 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:54:17,205 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 11:54:17,205 - model_trainer - INFO - ============================================================
+2026-02-17 11:54:17,206 - model_trainer - INFO - 
+[[17  1]
+ [ 2  0]]
+2026-02-17 11:54:17,206 - model_trainer - INFO - Saving models...
+2026-02-17 11:54:17,255 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 11:54:17,255 - model_trainer - INFO - ======================================================================
+2026-02-17 11:54:17,256 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 11:54:17,256 - model_trainer - INFO - ======================================================================
+2026-02-17 11:55:04,615 - model_trainer - INFO - ======================================================================
+2026-02-17 11:55:04,615 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 11:55:04,615 - model_trainer - INFO - ======================================================================
+2026-02-17 11:55:04,615 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 11:55:04,615 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 11:55:04,616 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 11:55:05,953 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 11:55:06,122 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 11:55:06,122 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 11:55:06,122 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 11:55:06,144 - model_trainer - INFO - Training XGBoost...
+2026-02-17 11:55:06,322 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 11:55:06,322 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 11:55:06,461 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 11:55:06,461 - model_trainer - INFO - Evaluating models...
+2026-02-17 11:55:06,722 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_115506.csv
+2026-02-17 11:55:06,722 - model_trainer - INFO - Best F1 threshold: 0.180 (F1=0.400)
+2026-02-17 11:55:06,723 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:55:06,723 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.394, min=0.450, used=0.450)
+2026-02-17 11:55:06,723 - model_trainer - INFO - ============================================================
+2026-02-17 11:55:06,727 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.80        20
+   macro avg       0.44      0.44      0.44        20
+weighted avg       0.80      0.80      0.80        20
+
+2026-02-17 11:55:06,727 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 11:55:06,727 - model_trainer - INFO - 
+============================================================
+2026-02-17 11:55:06,727 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 11:55:06,727 - model_trainer - INFO - ============================================================
+2026-02-17 11:55:06,728 - model_trainer - INFO - 
+[[16  2]
+ [ 2  0]]
+2026-02-17 11:55:06,728 - model_trainer - INFO - Saving models...
+2026-02-17 11:55:06,782 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 11:55:06,782 - model_trainer - INFO - ======================================================================
+2026-02-17 11:55:06,782 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 11:55:06,782 - model_trainer - INFO - ======================================================================
+2026-02-17 12:01:11,407 - model_trainer - INFO - ======================================================================
+2026-02-17 12:01:11,407 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:01:11,407 - model_trainer - INFO - ======================================================================
+2026-02-17 12:01:11,407 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:01:11,408 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:01:11,408 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:01:12,785 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:01:12,947 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:01:12,948 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:01:12,948 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:01:12,968 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:01:13,106 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:01:13,106 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:01:13,217 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:01:13,217 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:01:13,471 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_120113.csv
+2026-02-17 12:01:13,471 - model_trainer - INFO - Best F1 threshold: 0.180 (F1=0.400)
+2026-02-17 12:01:13,472 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:01:13,472 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.394, min=0.450, used=0.450)
+2026-02-17 12:01:13,472 - model_trainer - INFO - ============================================================
+2026-02-17 12:01:13,475 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.80        20
+   macro avg       0.44      0.44      0.44        20
+weighted avg       0.80      0.80      0.80        20
+
+2026-02-17 12:01:13,475 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:01:13,475 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:01:13,476 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:01:13,476 - model_trainer - INFO - ============================================================
+2026-02-17 12:01:13,477 - model_trainer - INFO - 
+[[16  2]
+ [ 2  0]]
+2026-02-17 12:01:13,477 - model_trainer - INFO - Saving models...
+2026-02-17 12:01:13,532 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:01:13,532 - model_trainer - INFO - ======================================================================
+2026-02-17 12:01:13,532 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:01:13,533 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:31,445 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:31,445 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:18:31,445 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:31,445 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:18:31,445 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:18:31,445 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:18:32,834 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:18:33,013 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:18:33,013 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:18:33,014 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:18:33,034 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:18:33,225 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:18:33,226 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:18:33,376 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:18:33,377 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:18:33,724 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_121833.csv
+2026-02-17 12:18:33,725 - model_trainer - INFO - Best F1 threshold: 0.320 (F1=0.667)
+2026-02-17 12:18:33,725 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:33,726 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.664, min=0.450, used=0.664)
+2026-02-17 12:18:33,726 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:33,729 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 12:18:33,729 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:18:33,729 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:33,729 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:18:33,729 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:33,731 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 12:18:33,732 - model_trainer - INFO - Saving models...
+2026-02-17 12:18:33,782 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:18:33,782 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:33,783 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:18:33,783 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:33,797 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:33,797 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:18:33,797 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:33,797 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:18:33,797 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:18:33,797 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:18:33,805 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:18:33,970 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:18:33,970 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:18:33,971 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:18:33,971 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:18:34,027 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:18:34,027 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:18:34,173 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:18:34,173 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:18:34,541 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_121834.csv
+2026-02-17 12:18:34,541 - model_trainer - INFO - Best F1 threshold: 0.250 (F1=0.333)
+2026-02-17 12:18:34,542 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:34,542 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.317, min=0.450, used=0.450)
+2026-02-17 12:18:34,542 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:34,545 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.80        20
+   macro avg       0.44      0.44      0.44        20
+weighted avg       0.80      0.80      0.80        20
+
+2026-02-17 12:18:34,545 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 12:18:34,545 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:34,545 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:18:34,545 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:34,546 - model_trainer - INFO - 
+[[16  2]
+ [ 2  0]]
+2026-02-17 12:18:34,546 - model_trainer - INFO - Saving models...
+2026-02-17 12:18:34,599 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:18:34,599 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:34,599 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:18:34,599 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:34,611 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:34,611 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:18:34,612 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:34,612 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:18:34,612 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:18:34,612 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:18:34,620 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:18:34,788 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:18:34,788 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:18:34,789 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:18:34,790 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:18:34,850 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:18:34,851 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:18:35,005 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:18:35,005 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:18:35,373 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_121835.csv
+2026-02-17 12:18:35,373 - model_trainer - INFO - Best F1 threshold: 0.010 (F1=0.800)
+2026-02-17 12:18:35,374 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:35,374 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.111, min=0.450, used=0.450)
+2026-02-17 12:18:35,374 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:35,379 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 12:18:35,379 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:18:35,379 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:35,379 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:18:35,379 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:35,381 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 12:18:35,381 - model_trainer - INFO - Saving models...
+2026-02-17 12:18:35,434 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:18:35,435 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:35,435 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:18:35,435 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:35,446 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:35,446 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:18:35,446 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:35,446 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:18:35,446 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:18:35,447 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:18:35,454 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:18:35,620 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:18:35,620 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:18:35,621 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:18:35,621 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:18:35,681 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:18:35,682 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:18:35,827 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:18:35,827 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:18:36,188 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_121836.csv
+2026-02-17 12:18:36,188 - model_trainer - INFO - Best F1 threshold: 0.240 (F1=0.667)
+2026-02-17 12:18:36,189 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:36,189 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.817, min=0.450, used=0.817)
+2026-02-17 12:18:36,189 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:36,192 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 12:18:36,193 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:18:36,193 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:36,193 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:18:36,193 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:36,194 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 12:18:36,194 - model_trainer - INFO - Saving models...
+2026-02-17 12:18:36,244 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:18:36,244 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:36,244 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:18:36,244 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:36,256 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:36,256 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:18:36,256 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:36,256 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:18:36,256 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:18:36,256 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:18:36,263 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:18:36,427 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:18:36,427 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:18:36,429 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:18:36,429 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:18:36,482 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:18:36,482 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:18:36,627 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:18:36,627 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:18:36,981 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_121836.csv
+2026-02-17 12:18:36,981 - model_trainer - INFO - Best F1 threshold: 0.000 (F1=0.182)
+2026-02-17 12:18:36,982 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:36,982 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.000, min=0.450, used=0.450)
+2026-02-17 12:18:36,982 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:36,985 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.80        20
+   macro avg       0.44      0.44      0.44        20
+weighted avg       0.80      0.80      0.80        20
+
+2026-02-17 12:18:36,986 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 12:18:36,986 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:18:36,986 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:18:36,986 - model_trainer - INFO - ============================================================
+2026-02-17 12:18:36,987 - model_trainer - INFO - 
+[[16  2]
+ [ 2  0]]
+2026-02-17 12:18:36,987 - model_trainer - INFO - Saving models...
+2026-02-17 12:18:37,039 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:18:37,040 - model_trainer - INFO - ======================================================================
+2026-02-17 12:18:37,040 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:18:37,040 - model_trainer - INFO - ======================================================================
+2026-02-17 12:29:45,439 - model_trainer - INFO - ======================================================================
+2026-02-17 12:29:45,440 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:29:45,440 - model_trainer - INFO - ======================================================================
+2026-02-17 12:29:45,440 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:29:45,440 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:29:45,440 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:29:46,823 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:29:46,983 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:29:46,983 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:29:46,984 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:29:47,006 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:29:47,168 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:29:47,168 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:29:47,288 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:29:47,288 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:29:47,546 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_122947.csv
+2026-02-17 12:29:47,548 - model_trainer - INFO - Best F1 threshold: 0.180 (F1=0.400)
+2026-02-17 12:29:47,548 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:29:47,548 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.394, min=0.450, used=0.450)
+2026-02-17 12:29:47,548 - model_trainer - INFO - ============================================================
+2026-02-17 12:29:47,552 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.80        20
+   macro avg       0.44      0.44      0.44        20
+weighted avg       0.80      0.80      0.80        20
+
+2026-02-17 12:29:47,552 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:29:47,553 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:29:47,553 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:29:47,553 - model_trainer - INFO - ============================================================
+2026-02-17 12:29:47,553 - model_trainer - INFO - 
+[[16  2]
+ [ 2  0]]
+2026-02-17 12:29:47,554 - model_trainer - INFO - Saving models...
+2026-02-17 12:29:47,607 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:29:47,608 - model_trainer - INFO - ======================================================================
+2026-02-17 12:29:47,608 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:29:47,608 - model_trainer - INFO - ======================================================================
+2026-02-17 12:30:57,767 - model_trainer - INFO - ======================================================================
+2026-02-17 12:30:57,767 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:30:57,768 - model_trainer - INFO - ======================================================================
+2026-02-17 12:30:57,768 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:30:57,768 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:30:57,769 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:30:59,086 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:30:59,256 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:30:59,256 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:30:59,257 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:30:59,279 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:30:59,444 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:30:59,444 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:30:59,597 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:30:59,597 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:30:59,955 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123059.csv
+2026-02-17 12:30:59,955 - model_trainer - INFO - Best F1 threshold: 0.320 (F1=0.667)
+2026-02-17 12:30:59,956 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:30:59,957 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.664, min=0.450, used=0.664)
+2026-02-17 12:30:59,957 - model_trainer - INFO - ============================================================
+2026-02-17 12:30:59,960 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 12:30:59,960 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:30:59,960 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:30:59,960 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:30:59,960 - model_trainer - INFO - ============================================================
+2026-02-17 12:30:59,961 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 12:30:59,961 - model_trainer - INFO - Saving models...
+2026-02-17 12:31:00,036 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:31:00,037 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,037 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:31:00,037 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,056 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,056 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:31:00,056 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,057 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:31:00,057 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:31:00,057 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:31:00,069 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:31:00,238 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:31:00,238 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:31:00,240 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:31:00,240 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:31:00,297 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:31:00,297 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:31:00,442 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:31:00,442 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:31:00,868 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123100.csv
+2026-02-17 12:31:00,869 - model_trainer - INFO - Best F1 threshold: 0.250 (F1=0.333)
+2026-02-17 12:31:00,870 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:00,870 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.317, min=0.450, used=0.450)
+2026-02-17 12:31:00,870 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:00,874 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.80        20
+   macro avg       0.44      0.44      0.44        20
+weighted avg       0.80      0.80      0.80        20
+
+2026-02-17 12:31:00,874 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 12:31:00,874 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:00,876 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:31:00,876 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:00,876 - model_trainer - INFO - 
+[[16  2]
+ [ 2  0]]
+2026-02-17 12:31:00,876 - model_trainer - INFO - Saving models...
+2026-02-17 12:31:00,932 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:31:00,932 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,932 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:31:00,934 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,945 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,945 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:31:00,946 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:00,946 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:31:00,946 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:31:00,946 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:31:00,952 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:31:01,114 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:31:01,115 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:31:01,116 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:31:01,116 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:31:01,173 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:31:01,173 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:31:01,319 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:31:01,320 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:31:01,682 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123101.csv
+2026-02-17 12:31:01,682 - model_trainer - INFO - Best F1 threshold: 0.010 (F1=0.800)
+2026-02-17 12:31:01,683 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:01,683 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.111, min=0.450, used=0.450)
+2026-02-17 12:31:01,683 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:01,686 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 12:31:01,687 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:31:01,687 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:01,687 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:31:01,687 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:01,688 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 12:31:01,688 - model_trainer - INFO - Saving models...
+2026-02-17 12:31:01,735 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:31:01,736 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:01,736 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:31:01,736 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:01,747 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:01,748 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:31:01,748 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:01,748 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:31:01,748 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:31:01,748 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:31:01,755 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:31:01,930 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:31:01,931 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:31:01,932 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:31:01,932 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:31:01,987 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:31:01,987 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:31:02,136 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:31:02,136 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:31:02,497 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123102.csv
+2026-02-17 12:31:02,497 - model_trainer - INFO - Best F1 threshold: 0.240 (F1=0.667)
+2026-02-17 12:31:02,498 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:02,498 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.817, min=0.450, used=0.817)
+2026-02-17 12:31:02,498 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:02,501 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.50      0.67         2
+
+    accuracy                           0.95        20
+   macro avg       0.97      0.75      0.82        20
+weighted avg       0.95      0.95      0.94        20
+
+2026-02-17 12:31:02,502 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:31:02,502 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:02,502 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:31:02,502 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:02,503 - model_trainer - INFO - 
+[[18  0]
+ [ 1  1]]
+2026-02-17 12:31:02,503 - model_trainer - INFO - Saving models...
+2026-02-17 12:31:02,554 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:31:02,554 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:02,554 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:31:02,554 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:02,568 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:02,568 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:31:02,568 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:02,568 - model_trainer - INFO - train labels distribution: {0: 72, 1: 8} (total=80)
+2026-02-17 12:31:02,568 - model_trainer - INFO - test labels distribution: {0: 18, 1: 2} (total=20)
+2026-02-17 12:31:02,568 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 12:31:02,575 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:31:02,741 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:31:02,741 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:31:02,742 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:31:02,742 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:31:02,795 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:31:02,795 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:31:02,938 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:31:02,938 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:31:03,309 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123103.csv
+2026-02-17 12:31:03,309 - model_trainer - INFO - Best F1 threshold: 0.000 (F1=0.182)
+2026-02-17 12:31:03,310 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:03,310 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.000, min=0.450, used=0.450)
+2026-02-17 12:31:03,311 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:03,314 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.89      0.89      0.89        18
+           1       0.00      0.00      0.00         2
+
+    accuracy                           0.80        20
+   macro avg       0.44      0.44      0.44        20
+weighted avg       0.80      0.80      0.80        20
+
+2026-02-17 12:31:03,315 - model_trainer - INFO - Precision@K (K=10): 0.100
+2026-02-17 12:31:03,315 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:31:03,315 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:31:03,315 - model_trainer - INFO - ============================================================
+2026-02-17 12:31:03,317 - model_trainer - INFO - 
+[[16  2]
+ [ 2  0]]
+2026-02-17 12:31:03,317 - model_trainer - INFO - Saving models...
+2026-02-17 12:31:03,368 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:31:03,369 - model_trainer - INFO - ======================================================================
+2026-02-17 12:31:03,369 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:31:03,369 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:13,487 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:13,487 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:36:13,487 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:13,487 - model_trainer - INFO - train labels distribution: {0: 72, 1: 28} (total=100)
+2026-02-17 12:36:13,487 - model_trainer - INFO - test labels distribution: {0: 18, 1: 8} (total=26)
+2026-02-17 12:36:13,488 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:36:13,682 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:36:13,683 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:36:13,684 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:36:13,706 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:36:13,875 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:36:13,875 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:36:14,075 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:36:14,075 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:36:14,457 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123614.csv
+2026-02-17 12:36:14,457 - model_trainer - INFO - Best F1 threshold: 0.340 (F1=0.769)
+2026-02-17 12:36:14,458 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:14,459 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.778, min=0.450, used=0.778)
+2026-02-17 12:36:14,459 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:14,470 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.92        18
+           1       1.00      0.62      0.77         8
+
+    accuracy                           0.88        26
+   macro avg       0.93      0.81      0.85        26
+weighted avg       0.90      0.88      0.88        26
+
+2026-02-17 12:36:14,471 - model_trainer - INFO - Precision@K (K=10): 0.700
+2026-02-17 12:36:14,472 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:14,472 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:36:14,473 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:14,474 - model_trainer - INFO - 
+[[18  0]
+ [ 3  5]]
+2026-02-17 12:36:14,474 - model_trainer - INFO - Saving models...
+2026-02-17 12:36:14,533 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:36:14,534 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:14,534 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:36:14,534 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:14,552 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:14,552 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:36:14,552 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:14,552 - model_trainer - INFO - train labels distribution: {0: 72, 1: 29} (total=101)
+2026-02-17 12:36:14,552 - model_trainer - INFO - test labels distribution: {0: 18, 1: 7} (total=25)
+2026-02-17 12:36:14,553 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:36:14,756 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:36:14,756 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:36:14,757 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:36:14,757 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:36:14,822 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:36:14,823 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:36:15,021 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:36:15,021 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:36:15,426 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123615.csv
+2026-02-17 12:36:15,427 - model_trainer - INFO - Best F1 threshold: 0.540 (F1=0.727)
+2026-02-17 12:36:15,428 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:15,428 - model_trainer - INFO - CLASSIFICATION REPORT (auto=1.000, min=0.450, used=1.000)
+2026-02-17 12:36:15,428 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:15,432 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.86      1.00      0.92        18
+           1       1.00      0.57      0.73         7
+
+    accuracy                           0.88        25
+   macro avg       0.93      0.79      0.83        25
+weighted avg       0.90      0.88      0.87        25
+
+2026-02-17 12:36:15,432 - model_trainer - INFO - Precision@K (K=10): 0.500
+2026-02-17 12:36:15,432 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:15,432 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:36:15,432 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:15,433 - model_trainer - INFO - 
+[[18  0]
+ [ 3  4]]
+2026-02-17 12:36:15,433 - model_trainer - INFO - Saving models...
+2026-02-17 12:36:15,494 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:36:15,495 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:15,495 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:36:15,495 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:15,512 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:15,512 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:36:15,512 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:15,512 - model_trainer - INFO - train labels distribution: {0: 72, 1: 29} (total=101)
+2026-02-17 12:36:15,512 - model_trainer - INFO - test labels distribution: {0: 18, 1: 7} (total=25)
+2026-02-17 12:36:15,512 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:36:15,722 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:36:15,722 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:36:15,724 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:36:15,724 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:36:15,805 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:36:15,805 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:36:16,139 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:36:16,139 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:36:16,502 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123616.csv
+2026-02-17 12:36:16,502 - model_trainer - INFO - Best F1 threshold: 0.010 (F1=0.933)
+2026-02-17 12:36:16,504 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:16,504 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.215, min=0.450, used=0.450)
+2026-02-17 12:36:16,504 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:16,507 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.94      0.94      0.94        18
+           1       0.86      0.86      0.86         7
+
+    accuracy                           0.92        25
+   macro avg       0.90      0.90      0.90        25
+weighted avg       0.92      0.92      0.92        25
+
+2026-02-17 12:36:16,507 - model_trainer - INFO - Precision@K (K=10): 0.700
+2026-02-17 12:36:16,508 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:16,508 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:36:16,508 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:16,508 - model_trainer - INFO - 
+[[17  1]
+ [ 1  6]]
+2026-02-17 12:36:16,508 - model_trainer - INFO - Saving models...
+2026-02-17 12:36:16,559 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:36:16,559 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:16,559 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:36:16,559 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:16,572 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:16,572 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:36:16,572 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:16,572 - model_trainer - INFO - train labels distribution: {0: 72, 1: 29} (total=101)
+2026-02-17 12:36:16,572 - model_trainer - INFO - test labels distribution: {0: 18, 1: 7} (total=25)
+2026-02-17 12:36:16,572 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:36:16,768 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:36:16,768 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:36:16,769 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:36:16,769 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:36:16,829 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:36:16,830 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:36:16,986 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:36:16,986 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:36:17,359 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123617.csv
+2026-02-17 12:36:17,359 - model_trainer - INFO - Best F1 threshold: 0.030 (F1=0.933)
+2026-02-17 12:36:17,360 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:17,360 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.111, min=0.450, used=0.450)
+2026-02-17 12:36:17,360 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:17,363 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97        18
+           1       1.00      0.86      0.92         7
+
+    accuracy                           0.96        25
+   macro avg       0.97      0.93      0.95        25
+weighted avg       0.96      0.96      0.96        25
+
+2026-02-17 12:36:17,363 - model_trainer - INFO - Precision@K (K=10): 0.700
+2026-02-17 12:36:17,363 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:17,364 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:36:17,364 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:17,365 - model_trainer - INFO - 
+[[18  0]
+ [ 1  6]]
+2026-02-17 12:36:17,365 - model_trainer - INFO - Saving models...
+2026-02-17 12:36:17,414 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:36:17,415 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:17,415 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:36:17,415 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:17,428 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:17,428 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:36:17,428 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:17,428 - model_trainer - INFO - train labels distribution: {0: 72, 1: 29} (total=101)
+2026-02-17 12:36:17,428 - model_trainer - INFO - test labels distribution: {0: 18, 1: 7} (total=25)
+2026-02-17 12:36:17,428 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:36:17,619 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:36:17,619 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:36:17,620 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:36:17,620 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:36:17,672 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:36:17,672 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:36:17,807 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:36:17,807 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:36:18,170 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123618.csv
+2026-02-17 12:36:18,170 - model_trainer - INFO - Best F1 threshold: 0.440 (F1=0.933)
+2026-02-17 12:36:18,171 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:18,171 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.486, min=0.450, used=0.486)
+2026-02-17 12:36:18,171 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:18,175 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       1.00      0.94      0.97        18
+           1       0.88      1.00      0.93         7
+
+    accuracy                           0.96        25
+   macro avg       0.94      0.97      0.95        25
+weighted avg       0.96      0.96      0.96        25
+
+2026-02-17 12:36:18,175 - model_trainer - INFO - Precision@K (K=10): 0.700
+2026-02-17 12:36:18,176 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:36:18,176 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:36:18,176 - model_trainer - INFO - ============================================================
+2026-02-17 12:36:18,177 - model_trainer - INFO - 
+[[17  1]
+ [ 0  7]]
+2026-02-17 12:36:18,177 - model_trainer - INFO - Saving models...
+2026-02-17 12:36:18,228 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:36:18,229 - model_trainer - INFO - ======================================================================
+2026-02-17 12:36:18,229 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:36:18,229 - model_trainer - INFO - ======================================================================
+2026-02-17 12:38:54,243 - model_trainer - INFO - ======================================================================
+2026-02-17 12:38:54,243 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 12:38:54,245 - model_trainer - INFO - ======================================================================
+2026-02-17 12:38:54,245 - model_trainer - INFO - train labels distribution: {0: 90, 1: 36} (total=126)
+2026-02-17 12:38:54,245 - model_trainer - INFO - test labels distribution: {0: 23, 1: 2} (total=25)
+2026-02-17 12:38:54,246 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 12:38:54,414 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 12:38:54,414 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 12:38:54,415 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 12:38:54,438 - model_trainer - INFO - Training XGBoost...
+2026-02-17 12:38:54,590 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 12:38:54,590 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 12:38:54,734 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 12:38:54,734 - model_trainer - INFO - Evaluating models...
+2026-02-17 12:38:55,097 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_123855.csv
+2026-02-17 12:38:55,098 - model_trainer - INFO - Best F1 threshold: 0.170 (F1=1.000)
+2026-02-17 12:38:55,098 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:38:55,098 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.539, min=0.450, used=0.539)
+2026-02-17 12:38:55,099 - model_trainer - INFO - ============================================================
+2026-02-17 12:38:55,103 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        23
+           1       1.00      1.00      1.00         2
+
+    accuracy                           1.00        25
+   macro avg       1.00      1.00      1.00        25
+weighted avg       1.00      1.00      1.00        25
+
+2026-02-17 12:38:55,103 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-02-17 12:38:55,103 - model_trainer - INFO - 
+============================================================
+2026-02-17 12:38:55,103 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 12:38:55,103 - model_trainer - INFO - ============================================================
+2026-02-17 12:38:55,104 - model_trainer - INFO - 
+[[23  0]
+ [ 0  2]]
+2026-02-17 12:38:55,105 - model_trainer - INFO - Saving models...
+2026-02-17 12:38:55,155 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 12:38:55,155 - model_trainer - INFO - ======================================================================
+2026-02-17 12:38:55,155 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 12:38:55,155 - model_trainer - INFO - ======================================================================
+2026-02-17 13:01:30,687 - model_trainer - INFO - ======================================================================
+2026-02-17 13:01:30,688 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 13:01:30,688 - model_trainer - INFO - ======================================================================
+2026-02-17 13:01:30,688 - model_trainer - INFO - train labels distribution: {0: 90, 1: 10} (total=100)
+2026-02-17 13:01:30,688 - model_trainer - INFO - test labels distribution: {1: 26} (total=26)
+2026-02-17 13:01:30,688 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 13:01:32,185 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 13:01:32,358 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 13:01:32,358 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 13:01:32,360 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 13:01:32,380 - model_trainer - INFO - Training XGBoost...
+2026-02-17 13:01:32,567 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 13:01:32,567 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 13:01:32,734 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 13:01:32,734 - model_trainer - INFO - Evaluating models...
+2026-02-17 13:01:33,088 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_130133.csv
+2026-02-17 13:01:33,089 - model_trainer - INFO - Best F1 threshold: 0.000 (F1=1.000)
+2026-02-17 13:01:33,089 - model_trainer - INFO - 
+============================================================
+2026-02-17 13:01:33,089 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.911, min=0.450, used=0.911)
+2026-02-17 13:01:33,089 - model_trainer - INFO - ============================================================
+2026-02-17 13:01:33,093 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        26
+
+    accuracy                           1.00        26
+   macro avg       1.00      1.00      1.00        26
+weighted avg       1.00      1.00      1.00        26
+
+2026-02-17 13:01:33,093 - model_trainer - INFO - Precision@K (K=10): 1.000
+2026-02-17 13:01:33,093 - model_trainer - INFO - 
+============================================================
+2026-02-17 13:01:33,093 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 13:01:33,093 - model_trainer - INFO - ============================================================
+2026-02-17 13:01:33,095 - model_trainer - INFO - 
+[[26]]
+2026-02-17 13:01:33,095 - model_trainer - INFO - Saving models...
+2026-02-17 13:01:33,148 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 13:01:33,148 - model_trainer - INFO - ======================================================================
+2026-02-17 13:01:33,148 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 13:01:33,148 - model_trainer - INFO - ======================================================================
+2026-02-17 13:09:03,994 - model_trainer - INFO - ======================================================================
+2026-02-17 13:09:03,994 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 13:09:03,994 - model_trainer - INFO - ======================================================================
+2026-02-17 13:09:03,994 - model_trainer - INFO - train labels distribution: {0: 90, 1: 10} (total=100)
+2026-02-17 13:09:03,995 - model_trainer - INFO - test labels distribution: {1: 26} (total=26)
+2026-02-17 13:09:03,995 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 13:09:05,379 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 13:09:05,543 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 13:09:05,543 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 13:09:05,545 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 13:09:05,566 - model_trainer - INFO - Training XGBoost...
+2026-02-17 13:09:05,785 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 13:09:05,785 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 13:09:05,951 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 13:09:05,951 - model_trainer - INFO - Evaluating models...
+2026-02-17 13:09:06,309 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_130906.csv
+2026-02-17 13:09:06,309 - model_trainer - INFO - Best F1 threshold: 0.000 (F1=1.000)
+2026-02-17 13:09:06,309 - model_trainer - INFO - 
+============================================================
+2026-02-17 13:09:06,310 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.911, min=0.450, used=0.911)
+2026-02-17 13:09:06,310 - model_trainer - INFO - ============================================================
+2026-02-17 13:09:06,313 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        26
+
+    accuracy                           1.00        26
+   macro avg       1.00      1.00      1.00        26
+weighted avg       1.00      1.00      1.00        26
+
+2026-02-17 13:09:06,313 - model_trainer - INFO - Precision@K (K=10): 1.000
+2026-02-17 13:09:06,313 - model_trainer - INFO - 
+============================================================
+2026-02-17 13:09:06,313 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 13:09:06,313 - model_trainer - INFO - ============================================================
+2026-02-17 13:09:06,315 - model_trainer - INFO - 
+[[26]]
+2026-02-17 13:09:06,315 - model_trainer - INFO - Saving models...
+2026-02-17 13:09:06,374 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 13:09:06,374 - model_trainer - INFO - ======================================================================
+2026-02-17 13:09:06,374 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 13:09:06,374 - model_trainer - INFO - ======================================================================
+2026-02-17 13:15:20,637 - model_trainer - INFO - ======================================================================
+2026-02-17 13:15:20,638 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 13:15:20,638 - model_trainer - INFO - ======================================================================
+2026-02-17 13:15:20,638 - model_trainer - INFO - train labels distribution: {0: 90, 1: 10} (total=100)
+2026-02-17 13:15:20,638 - model_trainer - INFO - test labels distribution: {1: 26} (total=26)
+2026-02-17 13:15:20,638 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 13:15:22,041 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 13:15:22,199 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 13:15:22,199 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 13:15:22,200 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 13:15:22,221 - model_trainer - INFO - Training XGBoost...
+2026-02-17 13:15:22,367 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 13:15:22,367 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 13:15:22,529 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 13:15:22,529 - model_trainer - INFO - Evaluating models...
+2026-02-17 13:15:22,876 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_131522.csv
+2026-02-17 13:15:22,876 - model_trainer - INFO - Best F1 threshold: 0.000 (F1=1.000)
+2026-02-17 13:15:22,877 - model_trainer - INFO - 
+============================================================
+2026-02-17 13:15:22,877 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.911, min=0.450, used=0.911)
+2026-02-17 13:15:22,877 - model_trainer - INFO - ============================================================
+2026-02-17 13:15:22,881 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        26
+
+    accuracy                           1.00        26
+   macro avg       1.00      1.00      1.00        26
+weighted avg       1.00      1.00      1.00        26
+
+2026-02-17 13:15:22,881 - model_trainer - INFO - Precision@K (K=10): 1.000
+2026-02-17 13:15:22,881 - model_trainer - INFO - 
+============================================================
+2026-02-17 13:15:22,881 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 13:15:22,881 - model_trainer - INFO - ============================================================
+2026-02-17 13:15:22,883 - model_trainer - INFO - 
+[[26]]
+2026-02-17 13:15:22,883 - model_trainer - INFO - Saving models...
+2026-02-17 13:15:22,940 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 13:15:22,940 - model_trainer - INFO - ======================================================================
+2026-02-17 13:15:22,940 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 13:15:22,941 - model_trainer - INFO - ======================================================================
+2026-02-17 17:11:08,904 - model_trainer - INFO - ======================================================================
+2026-02-17 17:11:08,904 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 17:11:08,904 - model_trainer - INFO - ======================================================================
+2026-02-17 17:11:08,904 - model_trainer - INFO - train labels distribution: {0: 90, 1: 10} (total=100)
+2026-02-17 17:11:08,904 - model_trainer - INFO - test labels distribution: {1: 26} (total=26)
+2026-02-17 17:11:08,904 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 17:11:10,363 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 17:11:10,532 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 17:11:10,532 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 17:11:10,533 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 17:11:10,557 - model_trainer - INFO - Training XGBoost...
+2026-02-17 17:11:10,757 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 17:11:10,759 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 17:11:10,923 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 17:11:10,924 - model_trainer - INFO - Evaluating models...
+2026-02-17 17:11:11,276 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_171111.csv
+2026-02-17 17:11:11,276 - model_trainer - INFO - Best F1 threshold: 0.000 (F1=1.000)
+2026-02-17 17:11:11,277 - model_trainer - INFO - 
+============================================================
+2026-02-17 17:11:11,277 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.911, min=0.450, used=0.911)
+2026-02-17 17:11:11,277 - model_trainer - INFO - ============================================================
+2026-02-17 17:11:11,281 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        26
+
+    accuracy                           1.00        26
+   macro avg       1.00      1.00      1.00        26
+weighted avg       1.00      1.00      1.00        26
+
+2026-02-17 17:11:11,281 - model_trainer - INFO - Precision@K (K=10): 1.000
+2026-02-17 17:11:11,281 - model_trainer - INFO - 
+============================================================
+2026-02-17 17:11:11,282 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 17:11:11,282 - model_trainer - INFO - ============================================================
+2026-02-17 17:11:11,283 - model_trainer - INFO - 
+[[26]]
+2026-02-17 17:11:11,283 - model_trainer - INFO - Saving models...
+2026-02-17 17:11:11,337 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 17:11:11,337 - model_trainer - INFO - ======================================================================
+2026-02-17 17:11:11,337 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 17:11:11,337 - model_trainer - INFO - ======================================================================
+2026-02-17 17:15:01,294 - model_trainer - INFO - ======================================================================
+2026-02-17 17:15:01,294 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-02-17 17:15:01,295 - model_trainer - INFO - ======================================================================
+2026-02-17 17:15:01,295 - model_trainer - INFO - train labels distribution: {0: 90, 1: 10} (total=100)
+2026-02-17 17:15:01,295 - model_trainer - INFO - test labels distribution: {1: 26} (total=26)
+2026-02-17 17:15:01,295 - model_trainer - INFO - Applying SMOTE (k=3) for class imbalance...
+2026-02-17 17:15:02,678 - model_trainer - INFO - Training IsolationForest...
+2026-02-17 17:15:02,854 - model_trainer - INFO - ✅ IsolationForest trained
+2026-02-17 17:15:02,854 - model_trainer - INFO - Training One-Class SVM...
+2026-02-17 17:15:02,855 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-02-17 17:15:02,878 - model_trainer - INFO - Training XGBoost...
+2026-02-17 17:15:03,014 - model_trainer - INFO - ✅ XGBoost trained
+2026-02-17 17:15:03,015 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-02-17 17:15:03,175 - model_trainer - INFO - ✅ Calibrated model trained
+2026-02-17 17:15:03,175 - model_trainer - INFO - Evaluating models...
+2026-02-17 17:15:03,527 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260217_171503.csv
+2026-02-17 17:15:03,528 - model_trainer - INFO - Best F1 threshold: 0.000 (F1=1.000)
+2026-02-17 17:15:03,529 - model_trainer - INFO - 
+============================================================
+2026-02-17 17:15:03,529 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.911, min=0.450, used=0.911)
+2026-02-17 17:15:03,529 - model_trainer - INFO - ============================================================
+2026-02-17 17:15:03,532 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        26
+
+    accuracy                           1.00        26
+   macro avg       1.00      1.00      1.00        26
+weighted avg       1.00      1.00      1.00        26
+
+2026-02-17 17:15:03,533 - model_trainer - INFO - Precision@K (K=10): 1.000
+2026-02-17 17:15:03,533 - model_trainer - INFO - 
+============================================================
+2026-02-17 17:15:03,533 - model_trainer - INFO - CONFUSION MATRIX
+2026-02-17 17:15:03,533 - model_trainer - INFO - ============================================================
+2026-02-17 17:15:03,534 - model_trainer - INFO - 
+[[26]]
+2026-02-17 17:15:03,534 - model_trainer - INFO - Saving models...
+2026-02-17 17:15:03,591 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-02-17 17:15:03,592 - model_trainer - INFO - ======================================================================
+2026-02-17 17:15:03,592 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-02-17 17:15:03,592 - model_trainer - INFO - ======================================================================

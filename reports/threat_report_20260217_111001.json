@@ -1,0 +1,281 @@
+{
+  "timestamp": "2026-02-17T11:10:01.981546",
+  "summary": {
+    "total_users": 100,
+    "critical": 13,
+    "high": 61,
+    "medium": 24,
+    "low": 2,
+    "avg_risk_score": 6.792037738303609,
+    "max_risk_score": 10.0,
+    "min_risk_score": 3.5150331119470706,
+    "std_risk_score": 1.2549447787513293
+  },
+  "critical_threats": [
+    {
+      "user_id": "USER_0014",
+      "risk_score": 10.0,
+      "anomaly_score": 0.7478096111260343,
+      "supervised_score": 1.0,
+      "confidence": 49.56192222520686
+    },
+    {
+      "user_id": "USER_0037",
+      "risk_score": 10.0,
+      "anomaly_score": 0.6637863432848757,
+      "supervised_score": 0.9607843160629272,
+      "confidence": 32.75726865697515
+    },
+    {
+      "user_id": "USER_0065",
+      "risk_score": 10.0,
+      "anomaly_score": 0.8187825844062877,
+      "supervised_score": 0.9607843160629272,
+      "confidence": 63.75651688125754
+    },
+    {
+      "user_id": "USER_0043",
+      "risk_score": 9.756398867775646,
+      "anomaly_score": 0.6453209151005935,
+      "supervised_score": 1.0,
+      "confidence": 29.064183020118705
+    },
+    {
+      "user_id": "USER_0088",
+      "risk_score": 9.565399648859309,
+      "anomaly_score": 0.6857386336929772,
+      "supervised_score": 0.9607843160629272,
+      "confidence": 37.14772673859543
+    },
+    {
+      "user_id": "USER_0034",
+      "risk_score": 8.948908141675082,
+      "anomaly_score": 0.593793855695268,
+      "supervised_score": 0.8333333333333334,
+      "confidence": 18.7587711390536
+    },
+    {
+      "user_id": "USER_0009",
+      "risk_score": 8.75560889031259,
+      "anomaly_score": 0.5604983309276599,
+      "supervised_score": 0.7318810721238455,
+      "confidence": 12.099666185531976
+    },
+    {
+      "user_id": "USER_0064",
+      "risk_score": 8.421380725432778,
+      "anomaly_score": 0.7762928257113131,
+      "supervised_score": 0.3803647384047508,
+      "confidence": 55.25856514226262
+    },
+    {
+      "user_id": "USER_0067",
+      "risk_score": 8.33984367158539,
+      "anomaly_score": 0.7404908718133983,
+      "supervised_score": 0.0,
+      "confidence": 48.09817436267967
+    },
+    {
+      "user_id": "USER_0077",
+      "risk_score": 8.225806451612904,
+      "anomaly_score": 1.0,
+      "supervised_score": 0.0,
+      "confidence": 100.0
+    },
+    {
+      "user_id": "USER_0089",
+      "risk_score": 8.167470694199269,
+      "anomaly_score": 0.6023854272860317,
+      "supervised_score": 0.9607843160629272,
+      "confidence": 20.477085457206346
+    },
+    {
+      "user_id": "USER_0019",
+      "risk_score": 8.161127717630198,
+      "anomaly_score": 0.8729432197301299,
+      "supervised_score": 0.08333333333333333,
+      "confidence": 74.58864394602598
+    },
+    {
+      "user_id": "USER_0093",
+      "risk_score": 8.05336788875552,
+      "anomaly_score": 0.8078156416076279,
+      "supervised_score": 0.16958042234182358,
+      "confidence": 61.563128321525575
+    }
+  ],
+  "high_risk_users": [
+    {
+      "user_id": "USER_0052",
+      "risk_score": 7.995214814464079,
+      "anomaly_score": 0.6969988819009174,
+      "supervised_score": 0.05524821082750956,
+      "confidence": 39.39977638018348
+    },
+    {
+      "user_id": "USER_0072",
+      "risk_score": 7.967150799975258,
+      "anomaly_score": 0.7358643850424542,
+      "supervised_score": 0.007897753268480301,
+      "confidence": 47.17287700849084
+    },
+    {
+      "user_id": "USER_0095",
+      "risk_score": 7.891316719570019,
+      "anomaly_score": 0.7764529740971332,
+      "supervised_score": 0.06060606241226196,
+      "confidence": 55.290594819426644
+    },
+    {
+      "user_id": "USER_0044",
+      "risk_score": 7.807656035774489,
+      "anomaly_score": 0.8001792667235259,
+      "supervised_score": 0.36821160713831586,
+      "confidence": 60.03585334470518
+    },
+    {
+      "user_id": "USER_0055",
+      "risk_score": 7.7547618562024025,
+      "anomaly_score": 0.9306259479215684,
+      "supervised_score": 0.0,
+      "confidence": 86.12518958431367
+    },
+    {
+      "user_id": "USER_0006",
+      "risk_score": 7.681222502911063,
+      "anomaly_score": 0.7935775151286875,
+      "supervised_score": 0.0,
+      "confidence": 58.71550302573749
+    },
+    {
+      "user_id": "USER_0016",
+      "risk_score": 7.650759707379265,
+      "anomaly_score": 0.7174657947821634,
+      "supervised_score": 0.06060606241226196,
+      "confidence": 43.49315895643269
+    },
+    {
+      "user_id": "USER_0018",
+      "risk_score": 7.6452608454464155,
+      "anomaly_score": 0.9450798331195018,
+      "supervised_score": 0.025641026596228283,
+      "confidence": 89.01596662390037
+    },
+    {
+      "user_id": "USER_0039",
+      "risk_score": 7.613955823082308,
+      "anomaly_score": 0.9438115364157382,
+      "supervised_score": 0.0,
+      "confidence": 88.76230728314765
+    },
+    {
+      "user_id": "USER_0086",
+      "risk_score": 7.5557519150358115,
+      "anomaly_score": 0.49816343000993824,
+      "supervised_score": 0.19230769326289496,
+      "confidence": 0.367313998012353
+    }
+  ],
+  "explanations": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

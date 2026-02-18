@@ -1,0 +1,85 @@
+{
+  "report_generated": "2026-02-17T13:10:59.776046",
+  "total_alerts": 13,
+  "critical_count": 10,
+  "threats": [
+    {
+      "rank": 1,
+      "user_id": "USER_0077",
+      "risk_score": 10.0,
+      "confidence": 100.0
+    },
+    {
+      "rank": 2,
+      "user_id": "USER_0064",
+      "risk_score": 10.0,
+      "confidence": 51.52957887870251
+    },
+    {
+      "rank": 3,
+      "user_id": "USER_0065",
+      "risk_score": 10.0,
+      "confidence": 47.41903912361991
+    },
+    {
+      "rank": 4,
+      "user_id": "USER_0037",
+      "risk_score": 10.0,
+      "confidence": 27.764217070126666
+    },
+    {
+      "rank": 5,
+      "user_id": "USER_0014",
+      "risk_score": 9.90291952948544,
+      "confidence": 29.96420450975044
+    },
+    {
+      "rank": 6,
+      "user_id": "USER_0042",
+      "risk_score": 9.655245337020858,
+      "confidence": 47.50173669841442
+    },
+    {
+      "rank": 7,
+      "user_id": "USER_0043",
+      "risk_score": 9.567876148446418,
+      "confidence": 19.63804705365726
+    },
+    {
+      "rank": 8,
+      "user_id": "USER_0023",
+      "risk_score": 8.97117232117004,
+      "confidence": 15.609307302741616
+    },
+    {
+      "rank": 9,
+      "user_id": "USER_0034",
+      "risk_score": 8.673051259004215,
+      "confidence": 13.65162253310206
+    },
+    {
+      "rank": 10,
+      "user_id": "USER_0088",
+      "risk_score": 8.668170771007132,
+      "confidence": 25.29281831647228
+    },
+    {
+      "rank": 11,
+      "user_id": "USER_0095",
+      "risk_score": 8.21912219674541,
+      "confidence": 36.32733326445417
+    },
+    {
+      "rank": 12,
+      "user_id": "USER_0067",
+      "risk_score": 8.148254706199078,
+      "confidence": 38.51872609336397
+    },
+    {
+      "rank": 13,
+      "user_id": "USER_0072",
+      "risk_score": 8.146169467936353,
+      "confidence": 40.64180623344562
+    }
+  ]
+}
