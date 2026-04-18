@@ -1,4 +1,4 @@
-﻿# AI-Based Insider Threat Detection System
+#  Insider Threat Detection System
 
 ## 🎯 Overview
 
