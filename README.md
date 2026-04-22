@@ -1,4 +1,4 @@
-# Insider Threat Detection System
+# INSIDER THREAT DETECTION SYSTEM
 
 An academic and deployment-oriented prototype for insider threat detection using hybrid machine learning, weighted risk scoring, report generation, and a Flask-based SOC dashboard.
 
