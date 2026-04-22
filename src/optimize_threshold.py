@@ -27,7 +27,7 @@ def optimize_threshold():
     trainer = HybridModelTrainer()
     trainer.run(pd.DataFrame(X), pd.DataFrame(X[:len(X)//5]),
                 pd.Series(y), pd.Series(y[:len(y)//5]))
-    
+
     y_prob = trainer.get_supervised_probs(pd.DataFrame(X))
     
     # Calculate PR curve

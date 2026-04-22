@@ -283,7 +283,7 @@ This project is licensed under the MIT License - see LICENSE file for details
 ## 👤 Author
 
 **Aayush Salve**
-- Email: aay.sal.rt22@dypatil.edu
+- Email: aayushsalve15@gmail.com
 - GitHub: [aayushsalve](https://github.com/aayushsalve)
 
 ---
@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see LICENSE file for details
 
 For issues, questions, or suggestions:
 - Create an Issue on GitHub
-- Email: aay.sal.rt22@dypatil.edu
+- Email: aayushsalve15@gmail.com
 
 ---
 

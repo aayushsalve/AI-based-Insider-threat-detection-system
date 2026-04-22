@@ -1572,3 +1572,132 @@ weighted avg       1.00      1.00      1.00        26
 2026-02-17 17:15:03,592 - model_trainer - INFO - ======================================================================
 2026-02-17 17:15:03,592 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
 2026-02-17 17:15:03,592 - model_trainer - INFO - ======================================================================
+2026-04-06 13:23:29,271 - model_trainer - INFO - ======================================================================
+2026-04-06 13:23:29,287 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-04-06 13:23:29,287 - model_trainer - INFO - ======================================================================
+2026-04-06 13:23:29,311 - model_trainer - INFO - train labels distribution: {0: 90, 1: 36} (total=126)
+2026-04-06 13:23:29,311 - model_trainer - INFO - test labels distribution: {0: 23, 1: 2} (total=25)
+2026-04-06 13:23:29,311 - model_trainer - INFO - Training IsolationForest...
+2026-04-06 13:23:29,529 - model_trainer - INFO - ✅ IsolationForest trained
+2026-04-06 13:23:29,529 - model_trainer - INFO - Training One-Class SVM...
+2026-04-06 13:23:29,577 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-04-06 13:23:29,908 - model_trainer - INFO - Training XGBoost...
+2026-04-06 13:23:30,251 - model_trainer - INFO - ✅ XGBoost trained
+2026-04-06 13:23:30,251 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-04-06 13:23:30,469 - model_trainer - INFO - ✅ Calibrated model trained
+2026-04-06 13:23:30,471 - model_trainer - INFO - Evaluating models...
+2026-04-06 13:23:31,278 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260406_132331.csv
+2026-04-06 13:23:31,278 - model_trainer - INFO - Best F1 threshold: 0.170 (F1=1.000)
+2026-04-06 13:23:31,278 - model_trainer - INFO - 
+============================================================
+2026-04-06 13:23:31,278 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.539, min=0.450, used=0.539)
+2026-04-06 13:23:31,278 - model_trainer - INFO - ============================================================
+2026-04-06 13:23:31,278 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        23
+           1       1.00      1.00      1.00         2
+
+    accuracy                           1.00        25
+   macro avg       1.00      1.00      1.00        25
+weighted avg       1.00      1.00      1.00        25
+
+2026-04-06 13:23:31,278 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-04-06 13:23:31,278 - model_trainer - INFO - 
+============================================================
+2026-04-06 13:23:31,278 - model_trainer - INFO - CONFUSION MATRIX
+2026-04-06 13:23:31,278 - model_trainer - INFO - ============================================================
+2026-04-06 13:23:31,288 - model_trainer - INFO - 
+[[23  0]
+ [ 0  2]]
+2026-04-06 13:23:31,288 - model_trainer - INFO - Saving models...
+2026-04-06 13:23:31,406 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-04-06 13:23:31,406 - model_trainer - INFO - ======================================================================
+2026-04-06 13:23:31,406 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-04-06 13:23:31,406 - model_trainer - INFO - ======================================================================
+2026-04-06 13:44:10,201 - model_trainer - INFO - ======================================================================
+2026-04-06 13:44:10,201 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-04-06 13:44:10,201 - model_trainer - INFO - ======================================================================
+2026-04-06 13:44:10,201 - model_trainer - INFO - train labels distribution: {0: 90, 1: 36} (total=126)
+2026-04-06 13:44:10,210 - model_trainer - INFO - test labels distribution: {0: 23, 1: 2} (total=25)
+2026-04-06 13:44:10,210 - model_trainer - INFO - Training IsolationForest...
+2026-04-06 13:44:10,378 - model_trainer - INFO - ✅ IsolationForest trained
+2026-04-06 13:44:10,378 - model_trainer - INFO - Training One-Class SVM...
+2026-04-06 13:44:10,378 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-04-06 13:44:10,412 - model_trainer - INFO - Training XGBoost...
+2026-04-06 13:44:10,562 - model_trainer - INFO - ✅ XGBoost trained
+2026-04-06 13:44:10,562 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-04-06 13:44:10,732 - model_trainer - INFO - ✅ Calibrated model trained
+2026-04-06 13:44:10,732 - model_trainer - INFO - Evaluating models...
+2026-04-06 13:44:11,478 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260406_134411.csv
+2026-04-06 13:44:11,478 - model_trainer - INFO - Best F1 threshold: 0.170 (F1=1.000)
+2026-04-06 13:44:11,484 - model_trainer - INFO - 
+============================================================
+2026-04-06 13:44:11,484 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.539, min=0.450, used=0.539)
+2026-04-06 13:44:11,484 - model_trainer - INFO - ============================================================
+2026-04-06 13:44:11,491 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        23
+           1       1.00      1.00      1.00         2
+
+    accuracy                           1.00        25
+   macro avg       1.00      1.00      1.00        25
+weighted avg       1.00      1.00      1.00        25
+
+2026-04-06 13:44:11,491 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-04-06 13:44:11,491 - model_trainer - INFO - 
+============================================================
+2026-04-06 13:44:11,491 - model_trainer - INFO - CONFUSION MATRIX
+2026-04-06 13:44:11,491 - model_trainer - INFO - ============================================================
+2026-04-06 13:44:11,492 - model_trainer - INFO - 
+[[23  0]
+ [ 0  2]]
+2026-04-06 13:44:11,492 - model_trainer - INFO - Saving models...
+2026-04-06 13:44:11,600 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-04-06 13:44:11,600 - model_trainer - INFO - ======================================================================
+2026-04-06 13:44:11,602 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-04-06 13:44:11,602 - model_trainer - INFO - ======================================================================
+2026-04-07 06:39:06,080 - model_trainer - INFO - ======================================================================
+2026-04-07 06:39:06,094 - model_trainer - INFO - STARTING MODEL TRAINING
+2026-04-07 06:39:06,094 - model_trainer - INFO - ======================================================================
+2026-04-07 06:39:06,095 - model_trainer - INFO - train labels distribution: {0: 90, 1: 36} (total=126)
+2026-04-07 06:39:06,095 - model_trainer - INFO - test labels distribution: {0: 23, 1: 2} (total=25)
+2026-04-07 06:39:06,096 - model_trainer - INFO - Training IsolationForest...
+2026-04-07 06:39:06,319 - model_trainer - INFO - ✅ IsolationForest trained
+2026-04-07 06:39:06,321 - model_trainer - INFO - Training One-Class SVM...
+2026-04-07 06:39:06,332 - model_trainer - INFO - ✅ One-Class SVM trained
+2026-04-07 06:39:06,687 - model_trainer - INFO - Training XGBoost...
+2026-04-07 06:39:06,942 - model_trainer - INFO - ✅ XGBoost trained
+2026-04-07 06:39:06,942 - model_trainer - INFO - Calibrating probabilities: method=isotonic, cv=3
+2026-04-07 06:39:07,106 - model_trainer - INFO - ✅ Calibrated model trained
+2026-04-07 06:39:07,106 - model_trainer - INFO - Evaluating models...
+2026-04-07 06:39:07,898 - model_trainer - INFO - Threshold report saved: D:\Major Project\Insider Threat Detection\reports\threshold_report_20260407_063907.csv
+2026-04-07 06:39:07,899 - model_trainer - INFO - Best F1 threshold: 0.170 (F1=1.000)
+2026-04-07 06:39:07,900 - model_trainer - INFO - 
+============================================================
+2026-04-07 06:39:07,900 - model_trainer - INFO - CLASSIFICATION REPORT (auto=0.539, min=0.450, used=0.539)
+2026-04-07 06:39:07,900 - model_trainer - INFO - ============================================================
+2026-04-07 06:39:07,904 - model_trainer - INFO - 
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00        23
+           1       1.00      1.00      1.00         2
+
+    accuracy                           1.00        25
+   macro avg       1.00      1.00      1.00        25
+weighted avg       1.00      1.00      1.00        25
+
+2026-04-07 06:39:07,904 - model_trainer - INFO - Precision@K (K=10): 0.200
+2026-04-07 06:39:07,904 - model_trainer - INFO - 
+============================================================
+2026-04-07 06:39:07,904 - model_trainer - INFO - CONFUSION MATRIX
+2026-04-07 06:39:07,905 - model_trainer - INFO - ============================================================
+2026-04-07 06:39:07,906 - model_trainer - INFO - 
+[[23  0]
+ [ 0  2]]
+2026-04-07 06:39:07,906 - model_trainer - INFO - Saving models...
+2026-04-07 06:39:07,977 - model_trainer - INFO - ✅ Models saved to D:\Major Project\Insider Threat Detection\Data\Models
+2026-04-07 06:39:07,977 - model_trainer - INFO - ======================================================================
+2026-04-07 06:39:07,977 - model_trainer - INFO - ✅ MODEL TRAINING COMPLETE
+2026-04-07 06:39:07,977 - model_trainer - INFO - ======================================================================
