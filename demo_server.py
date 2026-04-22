@@ -12,8 +12,8 @@ Usage
 Demo credentials
 ----------------
     Admin  : username=aayush  password=aayushadminpass
-    Analyst: username=priya   password=analystpass
-    User   : username=amit    password=amitpass
+    User   : username=priya   password=analystpass
+    User   : username=amit    password=adminpass
 
 API endpoints
 -------------
@@ -61,7 +61,7 @@ def main() -> None:
     args = parser.parse_args()
 
     lan_ip = get_lan_ip()
-    port   = args.port
+    port = args.port
 
     banner = f"""
 ╔══════════════════════════════════════════════════════════╗
@@ -71,9 +71,9 @@ def main() -> None:
 ║  Network:  http://{lan_ip:<15}:{port:<5}                 ║
 ╠══════════════════════════════════════════════════════════╣
 ║  Demo Credentials                                        ║
-║    Admin  :  aayush  /  aayushpass                       ║
-║    Analyst:  priya   /  analystpass                      ║
-║    User   :  amit    /  amitpass                         ║
+║    Admin  :  aayush  /  aayushadminpass                  ║
+║    User   :  priya   /  analystpass                      ║
+║    User   :  amit    /  adminpass                        ║
 ╠══════════════════════════════════════════════════════════╣
 ║  API Endpoints                                           ║
 ║    /api/v1/risk      – live risk scores (JSON)           ║

@@ -1,42 +1,80 @@
-# Portable Run Instructions
+# Portable Run Guide
 
-This explains how to run the Insider Threat Detection demo from removable media (USB/pendrive) on another machine.
+This guide explains how to run the current project demo on another Windows machine or from removable media.
 
-Prerequisites
-- Python 3.8 or newer installed on the target machine and available on `PATH`.
+## Recommended Use Case
 
-Windows (recommended):
+Use the portable flow when you want to:
 
-1. Copy the whole project folder to the target machine (or insert the USB drive).
-2. Open Command Prompt and change directory to the project root (where `run_app.bat` is located):
+- demonstrate the dashboard during viva or review sessions
+- run the app on another laptop without recreating the setup manually from scratch
+- expose the demo over local Wi-Fi using `demo_server.py`
 
-```powershell
-cd "D:\path\to\Insider Threat Detection"
-```
+## Windows Quick Start
 
-3. Run the helper script which will create a virtualenv, install dependencies, and start the app:
+1. Copy the full project folder to the target machine.
+2. Open PowerShell or Command Prompt in the project root.
+3. Run:
 
 ```powershell
 run_app.bat
 ```
 
-4. Open a browser at `http://127.0.0.1:5000`.
+This script will:
 
-Linux / macOS (manual):
+- create `venv` if it does not already exist
+- activate the environment
+- install the minimal packages used by the dashboard flow
+- start the Flask app
 
-1. Copy the project to the machine.
-2. In a terminal, create and activate a venv, install deps, and run:
+After startup, open:
 
-```bash
-cd "/path/to/Insider Threat Detection"
-python3 -m venv venv
-source venv/bin/activate
-pip install --upgrade pip
-pip install flask flask-cors pandas plotly
-python src/app.py
+```text
+http://127.0.0.1:5000
 ```
 
-Notes & tips
-- The `run_app.bat` installs minimal dependencies used by the demo; if you extend the project, update the `pip install` line accordingly.
-- For presentations, create a small screenshot or list of demo accounts (Aayush / aayushpass is admin).
-- Bundling into a single executable is possible (PyInstaller) but not included here to keep the USB small and cross-platform.
+## Demo Credentials
+
+The current demo accounts are:
+
+- Admin: `aayush` / `aayushadminpass`
+- User: `amit` / `adminpass`
+- User: `priya` / `analystpass`
+
+## Local Network Demo
+
+If you want another device on the same network to open the dashboard, run:
+
+```powershell
+python demo_server.py
+```
+
+Or use a custom port:
+
+```powershell
+python demo_server.py --port 8080
+```
+
+The script prints both local and LAN URLs.
+
+## Manual Setup
+
+If you do not want to use `run_app.bat`, set the environment up manually:
+
+```powershell
+python -m venv venv
+venv\Scripts\activate
+python -m pip install --upgrade pip
+python -m pip install flask flask-cors pandas numpy scikit-learn joblib plotly python-pptx
+python app.py
+```
+
+## Notes
+
+- The repository currently includes generated reports, trained models, notebooks, and presentation material alongside the source code.
+- `run_app.bat` installs only the packages needed for the dashboard demo path. If you plan to execute training or reporting scripts, install the broader package set shown above.
+- Before carrying the project to another machine, confirm that the `Data`, `docs`, and `reports` directories contain the artifacts you want to present.
+
+## Support
+
+For setup issues or demo preparation help, contact `aayushsalve15@gmail.com`.

@@ -1,305 +1,195 @@
-#  Insider Threat Detection System
+# Insider Threat Detection System
 
-## 🎯 Overview
+An academic and deployment-oriented prototype for insider threat detection using hybrid machine learning, weighted risk scoring, report generation, and a Flask-based SOC dashboard.
 
-An advanced machine learning system designed to detect insider threats in organizations through behavioral anomaly detection and risk scoring. The system uses a **Hybrid Machine Learning approach** combining IsolationForest and RandomForest algorithms for accurate threat identification.
+## Project Status
 
-**Current Models**: 
-- ✅ IsolationForest (Primary Detector - 70% weight)
-- ✅ RandomForest (Validation Layer - 30% weight)
-- ✅ Hybrid Risk Scoring System
+This repository currently reflects a working project state with:
 
----
+- a hybrid anomaly detection concept built around IsolationForest and RandomForest
+- a dashboard application for demo monitoring and response simulation
+- generated model, threshold, and reporting artifacts
+- viva, report, and black-book documentation for the current submission stage
 
-## 🔑 Key Features
+Current validated metrics referenced by the reporting pipeline:
 
-✅ **Hybrid Model Architecture**
-- Combines unsupervised (IsolationForest) and supervised (RandomForest) learning
-- Early detection of novel threats
-- High-confidence threat validation
+- Precision: 88.0%
+- Recall: 78.2%
+- F1-score: 82.0%
+- Accuracy: 92.0%
 
-✅ **Behavioral Analysis**
-- File access pattern monitoring
-- Login behavior tracking
-- Sensitive data access detection
+## Core Capabilities
 
-✅ **Risk Scoring**
-- Multi-factor risk assessment
-- Real-time threat scoring (0-10 scale)
-- Confidence metrics
+### Hybrid Detection Logic
 
-✅ **Data Processing**
-- Automated feature engineering
-- Anomaly detection pipeline
-- Comprehensive reporting
+- anomaly-oriented detection with IsolationForest
+- supervised validation with RandomForest
+- weighted hybrid scoring for stronger prioritization
 
----
+### Risk Scoring
 
-## 📊 Architecture
+- 0-10 risk score output
+- four-factor weighted scoring model
+- Critical, High, Medium, and Low risk classification
 
-```
-User Activity Data
-    ↓
-Feature Engineering
-    ↓
-┌─────────────────────────────────────┐
-│   HYBRID ANOMALY DETECTION          │
-│  ┌──────────────────────────────┐   │
-│  │ IsolationForest (70%)        │   │
-│  │ • Unsupervised detection     │   │
-│  │ • Anomaly scoring            │   │
-│  └──────────────────────────────┘   │
-│  ┌──────────────────────────────┐   │
-│  │ RandomForest (30%)           │   │
-│  │ • Supervised validation      │   │
-│  │ • Threat confirmation        │   │
-│  └──────────────────────────────┘   │
-│         ↓ Weighted Voting ↓         │
-│   Combined Threat Score (0-1)       │
-└─────────────────────────────────────┘
-    ↓
-Risk Scoring Engine
-    ↓
-Threat Report & Alerts
+### Dashboard and Demo Operations
+
+- Flask dashboard with login-based access
+- live risk leaderboard and recent activity view
+- admin controls for restrict, block, unblock, and role updates
+- JSON endpoints for demo integrations
+
+### Reporting and Evaluation
+
+- cross-validation summaries
+- threshold optimization outputs
+- executive summary generation
+- exportable recommendation and performance reports
+
+## Current Architecture
+
+```text
+User Activity and Security Signals
+    -> preprocessing and feature engineering
+    -> anomaly detection and supervised validation
+    -> weighted hybrid score
+    -> 0-10 risk scoring engine
+    -> dashboard, reports, and API responses
 ```
 
----
+The current dashboard implementation in `src/app.py` uses a four-component weighted risk model:
 
-## 📂 Project Structure
+- Anomaly: 40%
+- Sensitive access: 30%
+- Login anomaly: 20%
+- Behavioral signal: 10%
 
-```
+## Repository Layout
+
+```text
 Insider Threat Detection/
-├── README.md                      # Main documentation
-├── HYBRID_MODEL_ARCHITECTURE.md   # Detailed model documentation
-├── requirements.txt               # Python dependencies
-├── test_hybrid_model.py          # Hybrid model testing script
-│
+├── app.py                         # Root Flask launcher
+├── demo_server.py                 # LAN demo launcher
+├── run_app.bat                    # Windows helper to start the app
+├── train_models.py                # Model training script
+├── run_detection.py               # Detection runner
+├── test_hybrid_model.py           # Hybrid model test script
+├── HYBRID_MODEL_ARCHITECTURE.md   # Architecture notes
+├── README_PORTABLE.md             # Portable/demo run guide
 ├── Data/
-│   ├── Raw/                      # Original data
-│   ├── Processed/                # Cleaned data
-│   ├── Models/                   # Trained models
-│   │   ├── isolation_forest_model.pkl
-│   │   └── random_forest_model.pkl
-│   └── *.csv                     # Dataset files
-│
-├── src/                          # Source code
-│   ├── main.py                   # Main execution
-│   ├── mode_training.py          # Hybrid model training
-│   ├── anomaly_detection.py      # Hybrid anomaly detection
-│   ├── model_evaluation.py       # Model evaluation
-│   ├── data_processing.py        # Data preprocessing
-│   ├── feature_engineering.py    # Feature creation
-│   ├── risking_scoring.py        # Risk calculation
-│   ├── utils.py                  # Utility functions
-│   └── preprocessing.py          # Data cleaning
-│
-└── Notebook/
-    └── exploration.ipynb         # Data exploration
+│   ├── Models/                    # Trained model artifacts
+│   ├── Processed/                 # Processed datasets
+│   ├── production_models/         # Production-oriented outputs
+│   └── *.csv                      # Project datasets
+├── docs/
+│   ├── SOC_USER_GUIDE.md          # Current operator guide
+│   ├── generate_final_viva_ppt.py # Viva presentation generator
+│   └── *.md                       # Project documentation
+├── reports/                       # Generated metrics and summaries
+└── src/
+    ├── app.py                     # Main dashboard app
+    ├── model_training.py          # Training logic
+    ├── model_evaluation.py        # Evaluation logic
+    ├── generate_final_report.py   # Final reporting utility
+    ├── optimize_threshold.py      # Threshold tuning
+    ├── data_processing.py         # Data preparation
+    ├── feature_engineering.py     # Feature engineering
+    ├── drift_monitor.py           # Drift monitoring helpers
+    ├── enhanced_risk_scoring.py   # Risk scoring implementation
+    └── templates/                 # Dashboard templates
 ```
 
----
+## Running The Project
 
-## 🚀 Getting Started
+### Option 1: Start The Dashboard
 
-### **Prerequisites**
-- Python 3.8+
-- pip or conda
-
-### **Installation**
-
-1. Clone the repository:
-```bash
-git clone https://github.com/aayushsalve/AI-based-Insider-threat-detection-system.git
-cd "Insider Threat Detection"
+```powershell
+python app.py
 ```
 
-2. Create virtual environment:
-```bash
+This launches the Flask application exposed by the project root entry point.
+
+### Option 2: Start The LAN Demo Server
+
+```powershell
+python demo_server.py
+```
+
+Use this when you want to access the dashboard from another device on the same network.
+
+### Option 3: Use The Windows Helper
+
+```powershell
+run_app.bat
+```
+
+This script creates `venv` if needed, installs minimal demo dependencies, and starts the application.
+
+## Recommended Manual Environment Setup
+
+```powershell
 python -m venv venv
-source venv/Scripts/activate  # Windows
-# or
-source venv/bin/activate      # Linux/Mac
+venv\Scripts\activate
+python -m pip install --upgrade pip
+python -m pip install flask flask-cors pandas numpy scikit-learn joblib plotly python-pptx
 ```
 
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
+## Demo Access
+
+The current demo accounts defined in the Flask application are:
+
+- Admin: `aayush` / `aayushadminpass`
+- User: `amit` / `adminpass`
+- User: `priya` / `analystpass`
+
+Default dashboard URL:
+
+```text
+http://127.0.0.1:5000
 ```
 
-### **Training the Hybrid Model**
+## Active Demo API Surface
 
-```bash
-# Option 1: Using test script (recommended)
+The current Flask app exposes:
+
+- `GET /api/v1/risk`
+- `GET /api/v1/threats`
+
+These endpoints are demo-oriented and currently do not enforce API-key authentication.
+
+## Training, Detection, and Reporting Commands
+
+Examples of useful current commands:
+
+```powershell
+python train_models.py
+python run_detection.py
 python test_hybrid_model.py
-
-# Option 2: Using training script
-python src/mode_training.py
-
-# Option 3: Using main script
-python src/main.py
+python src\generate_final_report.py
+python src\optimize_threshold.py
 ```
 
-### **Evaluating Models**
+## Key Documentation
 
-```bash
-python src/model_evaluation.py
-```
+- `HYBRID_MODEL_ARCHITECTURE.md`
+- `README_PORTABLE.md`
+- `docs/SOC_USER_GUIDE.md`
+- `docs/generate_final_viva_ppt.py`
 
----
+## Author
 
-## 📈 Model Comparison
+Aayush Salve
 
-| Metric | IsolationForest | RandomForest | Hybrid |
-|--------|-----------------|--------------|--------|
-| Unsupervised Detection | ⭐⭐⭐⭐⭐ | ⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Labeled Data Handling | ⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Speed | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| Accuracy | ⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| Confidence | ⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-
----
-
-## 📊 Usage Example
-
-```python
-import pandas as pd
-from src.data_processing import preprocess_data
-from src.anomaly_detection import detect_anomalies
-from src.risking_scoring import compute_risk
-
-# 1. Load and preprocess data
-df = pd.read_csv('Data/simulated_activity.csv')
-processed_df = preprocess_data(df)
-
-# 2. Detect anomalies using hybrid model
-results_df = detect_anomalies(processed_df)
-
-# 3. Calculate risk scores
-risk_df = compute_risk(results_df)
-
-# 4. Get high-risk users
-high_risk = risk_df[risk_df['risk_score'] > 7.0]
-print(high_risk[['user_id', 'risk_score', 'anomaly_score', 'confidence']])
-```
-
----
-
-## 🔧 Configuration
-
-### **Model Parameters**
-
-**IsolationForest**:
-```python
-IsolationForest(
-    contamination=0.1,      # Expected anomaly ratio
-    n_estimators=100,       # Number of trees
-    random_state=42         # Reproducibility
-)
-```
-
-**RandomForest**:
-```python
-RandomForestClassifier(
-    n_estimators=100,       # Number of trees
-    max_depth=15,          # Maximum tree depth
-    min_samples_split=5     # Minimum samples to split
-)
-```
-
-### **Hybrid Weights**
-
-Default: `70% IsolationForest + 30% RandomForest`
-
-Adjust in `src/anomaly_detection.py`:
-```python
-hybrid_scores = (iso_scores_normalized * 0.7) + (rf_anomaly_prob * 0.3)
-```
-
-### **Threat Threshold**
-
-Default: `score > 0.5` = Threat
-
-Modify in `src/anomaly_detection.py` or `src/risking_scoring.py`
-
----
-
-## 📚 Documentation
-
-- **[HYBRID_MODEL_ARCHITECTURE.md](HYBRID_MODEL_ARCHITECTURE.md)** - Detailed technical documentation
-- **[src/](src/)** - Well-commented source code
-- **[Notebook/exploration.ipynb](Notebook/exploration.ipynb)** - Data exploration notebook
-
----
-
-## 🧪 Testing
-
-```bash
-# Run all tests
-python test_hybrid_model.py
-
-# Test individual components
-python src/model_evaluation.py
-python src/main.py
-```
-
----
-
-## 📊 Performance Metrics
-
-Based on test dataset (30 samples):
-
-**IsolationForest**:
-- Anomalies Detected: 3
-- Average Score: 0.618
-
-**RandomForest**:
-- Average Probability: 0.304
-
-**Hybrid Model**:
-- Anomalies Detected: 9 (better coverage)
-- Average Score: 0.523
-- Weighted confidence: Both models' strengths
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -m 'Add improvement'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Open Pull Request
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see LICENSE file for details
-
----
-
-## 👤 Author
-
-**Aayush Salve**
 - Email: aayushsalve15@gmail.com
-- GitHub: [aayushsalve](https://github.com/aayushsalve)
+- GitHub: https://github.com/aayushsalve
 
----
+## Support
 
-## 🔗 Repository
+For repository questions, documentation corrections, or project review requests:
 
-[AI-based-Insider-threat-detection-system](https://github.com/aayushsalve/AI-based-Insider-threat-detection-system)
+- create an issue in the GitHub repository
+- contact: aayushsalve15@gmail.com
 
----
+## Repository
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Create an Issue on GitHub
-- Email: aayushsalve15@gmail.com
-
----
-
-**Status**: ✅ Active Development | Last Updated: February 16, 2026
+https://github.com/aayushsalve/AI-based-Insider-threat-detection-system
